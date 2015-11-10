@@ -20,7 +20,7 @@
 	<div class="container section-wrapper">
 		<hr class="title-break" />
 		<div class="title-area section-title">
-			<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR PRODUCTS AND SOLUTIONS </h2>
+			<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR PRODUCTS AND SOLUTIONS<br> </h2>
 		</div> <!-- .section-title -->
 		<div class="row page-content">	
 			<div id="our_products">
