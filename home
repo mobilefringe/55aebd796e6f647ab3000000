@@ -1,7 +1,7 @@
 <div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
 	<div class="page-fullwdth-content">	
         <div>
-            <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447183892000/homebanner.jpg" class="" alt="">
+            <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447183892000/homebanner.jpg" class="width_100" alt="">
             <!--<video id="cmn-video-demo4__video" autoplay muted loop>-->
             <!--    <source src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.webm" type="video/webm">-->
             <!--    <source src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.mp4" type="video/mp4">-->
