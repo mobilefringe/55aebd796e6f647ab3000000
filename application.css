@@ -10,7 +10,6 @@ p{
 }
 a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.current-menu-parent > a, .team-box ul.social li a {
     color: #57b6dd;
-    font-style: italic;
 }
 .post-title{
     color: #57b6dd;
