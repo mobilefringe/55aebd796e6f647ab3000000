@@ -26,6 +26,10 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     padding: 60px 0;
 }
 
+.move_me{
+    transform: translateY(-5px);
+}
+
 .show_phone{
     display:none;
 }
