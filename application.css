@@ -518,6 +518,7 @@ display:none;
 @media(max-width:800px){
     .position_parallax{
         background:none;
+        height:inherit;
     }
     .hidden_phone{
         display:none;
