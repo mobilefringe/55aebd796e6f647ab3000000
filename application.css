@@ -468,7 +468,7 @@ display:none;
         display:none;
     }
     .show_phone{
-        display:none;
+        display:block;
     }
     .section-title .title{
         margin-bottom:20px;
