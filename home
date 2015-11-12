@@ -143,13 +143,7 @@
                     <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_bb.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/html5" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html_inside.jpg" data-title="HTML5 - The Future of the Web" data-description="<p>HTML5 continues to drive amazing web solutions that work on all modern mobile devices and browsers.&nbsp;</p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">HTML5 - The Future of the Web</span>
-                    <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
+            
         </ul>
     </div> <!-- .page-fullwdth-content -->
 </div>
