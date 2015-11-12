@@ -15,7 +15,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     font-style:italic;
 }
 
-#menu-secondary-menu a{
+#menu-secondary-menu a:hover{
     text-decoration:underline;
 }
 .post-title{
