@@ -167,7 +167,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 	top:250px;
 }
 
-.main_caption h2{
+.custom_caption h2{
 	font-size: 22px;
 	color:#fff;
         margin-top:0px !important;
