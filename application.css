@@ -22,6 +22,10 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     display:block;
 }
 
+.fill-wrapper {
+    padding: 60px 0;
+}
+
 .show_phone{
     display:none;
 }
