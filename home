@@ -94,15 +94,7 @@
 	</div> <!-- .section-title -->
 	<div class="page-fullwdth-content">	
 		<ul id="og-grid" class="og-grid">
-		    <li class="animated fadeIn" data-effect="fadeIn">
-		        <a href="/posts/rogers-catalyst-experts" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst_inside.jpg" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">Rogers Catalyst Experts</span>
-                    <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            
-            <li class="animated fadeIn" data-effect="fadeIn">
+	        <li class="animated fadeIn" data-effect="fadeIn">
                 <a href="/posts/ruby-on-rails" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Ruby on Rails</span>
@@ -152,7 +144,13 @@
             <!--        <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_bb.jpg" alt="" style="width: 300px;">-->
             <!--    </a>-->
             <!--</li>-->
-            
+            <li class="animated fadeIn" data-effect="fadeIn">
+		        <a href="/posts/rogers-catalyst-experts" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst_inside.jpg" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">Rogers Catalyst Experts</span>
+                    <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
         </ul>
     </div> <!-- .page-fullwdth-content -->
 </div>
