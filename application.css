@@ -170,7 +170,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .custom_caption h2{
 	font-size: 22px;
 	color:#fff;
-        margin-top:0px !important;
+    margin-top:0px !important;
 }
 
 .vid_replace img {
@@ -498,6 +498,7 @@ display:none;
     text-shadow: 2px 2px black;
     line-height: 35px;
     font-weight: 300;
+    position:absolute;
 }
 
 }
