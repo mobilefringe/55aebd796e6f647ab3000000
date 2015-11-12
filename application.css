@@ -18,6 +18,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .home .section-wrapper{
     padding-top: 30px;
 }
+.hidden_phone{
+    display:none;
+}
 
 #menu-secondary-menu a:hover{
     text-decoration:underline;
