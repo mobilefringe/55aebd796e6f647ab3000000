@@ -516,6 +516,9 @@ display:none;
 }
 
 @media(max-width:800px){
+    .position_parallax{
+        background:none;
+    }
     .hidden_phone{
         display:none;
     }
