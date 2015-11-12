@@ -15,6 +15,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 #post_container a{
     font-style:italic;
 }
+.home .section-wrapper{
+    padding-top: 30px;
+}
 
 #menu-secondary-menu a:hover{
     text-decoration:underline;
