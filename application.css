@@ -14,6 +14,10 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 #post_container a{
     font-style:italic;
 }
+
+#menu-secondary-menu a{
+    text-decoration:underline;
+}
 .post-title{
     color: #57b6dd;
 }
