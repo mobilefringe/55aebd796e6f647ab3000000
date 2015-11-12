@@ -1,0 +1,79 @@
+<style>
+    body{
+        padding-top: 68px;
+        
+    }
+    h1{
+        color: #57b6dd;
+        border-bottom: 1px solid #57b6dd;
+        padding-bottom: 10px;
+        margin-top: 25px;
+        font-weight: 600;
+        line-height: 50px;
+        margin-bottom: 30px;;
+    }
+    h3{
+        font-weight: 600;
+        font-size:20px
+    }
+    img{
+        width:100%;
+    }
+</style>
+<div class="container margin_top_30">
+    <div class="row">
+        <div class="col-md-9 post_container">
+            <div id="post_container">
+                <script id="post_template" type="x-tmpl-mustache/text">
+                    <img class="width_100" src="{{post_image}}" />
+                    {{{html_body}}}
+                </script>
+            </div>
+        </div>
+        <div class="col-md-3 container_side">
+            <h3 class="post_side_title">Testimonial</h3>
+            <div id="testimonial_container">
+                <script id="testimonial_template" type="x-tmpl-mustache/text">
+                    {{{html_body}}}
+                    <p class="client_info">
+                        {{title}}
+                        <br />
+                        {{author}}
+                        <br />
+                        {{institute}}
+                    </p>
+                </script>
+            </div>
+            <div class="margin_top_30"></div>
+            <h3 class="post_side_title">Newsletter</h3>
+            <p>
+                Subscribe to our newsletter and get information catered to the retail property management industry and updated features.
+            </p>
+            <br />
+            <form action="http://mobilefringe.createsend.com/t/d/s/iukudj/" method="post" id="newsletter_form">
+                <input type="text" class="form-control" placeholder="Email" name="cm-iukudj-iukudj" />
+                <br />
+                <input type="submit" value="Subscribe" class="btn btn-inverse" style="margin:0" id="subscribe_newsletter"/>
+                <p id="success_subscribe" style="display:none">Thank you for subscribing.</p>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function(e){
+        subscribe(e);
+        init(e);
+        function renderAll(){
+            var pathArray = window.location.pathname.split( '/' );
+            var slug = pathArray[pathArray.length-1];
+            var post = getPublishedPostDetailsBySlug(slug);
+            var testimonials = getBlogDataBySlug('mobilefringe-testimonials').posts;
+            var testimonial = testimonials[Math.floor(Math.random()*testimonials.length)];
+            renderTestimonial('#testimonial_container' ,'#testimonial_template', testimonial)
+            renderPostDetails("#post_container", "#post_template", post);
+            show_content();
+        }
+        loadMallData(renderAll); 
+    })
+</script>
