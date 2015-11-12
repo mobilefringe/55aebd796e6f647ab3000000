@@ -45,6 +45,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     font-weight: 300;
     position:absolute;
     color: #fff;
+    font-size: 22px;
 }
 .hidden_phone{
     display:block;
