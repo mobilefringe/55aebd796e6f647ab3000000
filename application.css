@@ -17,8 +17,15 @@ p{
 a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.current-menu-parent > a, .team-box ul.social li a {
     color: #57b6dd;
 }
-.position_relative{
+.position_parallax{
     position:relative;
+    background: url(http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447358258000/homebanner.jpg);
+    background-position: 50% 50%;
+    background-size: contain;
+    width: 100%;
+    height: 864px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #post_container a{
