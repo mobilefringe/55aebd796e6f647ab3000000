@@ -19,6 +19,10 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     padding-top: 30px;
 }
 .hidden_phone{
+    display:block;
+}
+
+.show_phone{
     display:none;
 }
 
