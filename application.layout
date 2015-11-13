@@ -20,8 +20,7 @@
         <meta name="twitter:description" content="{{meta_description}}" />
         <meta name="twitter:image" content="{{meta_image}}" /> 
         
-        <link rel="shortcut icon" href="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/>
-        <link rel="canonical" href="http://www.mobilefringe.com/" />        
+        <link rel="shortcut icon" href="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/>    
         <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
         
