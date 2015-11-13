@@ -18,7 +18,8 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     color: #57b6dd;
 }
 .mf_logo{
-    width:200px;    
+    width:200px;
+    padding-bottom: 20px;
 }
 
 .position_parallax{
