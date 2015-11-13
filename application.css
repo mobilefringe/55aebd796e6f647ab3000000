@@ -225,6 +225,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     #our_products .col-md-4{
         padding:0 6px !important;
     }
+    .img_left{
+        padding-right:10px;
+    }
 }
 
 @media screen and (min-width: 310px) {
