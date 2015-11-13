@@ -223,7 +223,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
         margin-bottom: 22px;
     }
     #our_products .col-md-4{
-        padding:6px !important;
+        padding:0 6px !important;
     }
 }
 
