@@ -39,7 +39,7 @@
                 <div class="col-md-4">
                     <div class="animated fadeInUp" data-effect="fadeInUp"><a href="/posts/analytics"><img class="medialeft1 img_right"  src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092057000/home_analytics.jpg" alt="" /></a>
                     </div>
-                    <div class="animated fadeInUp" data-effect="fadeInUp"><a href="/posts/beacons"><img class="img_right" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092074000/home_ibeacon.jpg" alt="" /></a>
+                    <div class="animated fadeInUp" data-effect="fadeInUp"><a href="/posts/beacons"><img class="img_right margin_20" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092074000/home_ibeacon.jpg" alt="" /></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
