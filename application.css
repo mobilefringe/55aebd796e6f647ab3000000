@@ -219,6 +219,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 }
 
 @media(max-width:1024px){
+    .navbar .navbar-brand{
+        padding-right:0;
+    }
     .position_parallax{
         height:500px;
         background-attachment: scroll;
