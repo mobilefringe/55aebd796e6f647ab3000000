@@ -214,6 +214,12 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
    padding-top: 65px;
 }
 
+@media(max-width:1024px){
+    .img_right{
+        margin-bottom: 6px;
+    }
+}
+
 @media screen and (min-width: 310px) {
 
 .main_caption {
