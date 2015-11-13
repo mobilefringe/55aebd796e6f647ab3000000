@@ -244,6 +244,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
         padding:0;
         margin-bottom:10px;
     }
+    .img_right{
+        max-width:100%;
+    }
 }
 @media screen and (min-width: 310px) {
 
