@@ -28,6 +28,13 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     background-attachment: fixed;
 }
 
+.img_right{
+    width: 100%;
+    max-width: 380px;
+    margin-bottom: 13px;
+    float: right;
+}
+
 #post_container a{
     font-style:italic;
 }
