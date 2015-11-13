@@ -9,7 +9,7 @@
             <!--    Your browser doesn't support HTML5 video. Here's a <a href="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.mp4">link</a> to download the video.-->
             <!--</video>-->
             
-            <div class="fade-in custom_caption main_caption" data-effect="slideInDown">
+            <div class="fade-in custom_caption" data-effect="slideInDown">
                 <h2>We shape cutting-edge ideas into pieces of software</h2>
                 We are Mobile Fringe - a boutique software development team, bringing magical experiences to life on desktop, tablet and mobile.
             </div>
