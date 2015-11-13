@@ -253,6 +253,11 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     }
 }
 @media(max-width:400px){
+    .custom_caption{
+        width: 100%;
+        font-size: 18px;
+        line-height: 20px;
+    }
     .move_me.size-full{
         height:inherit;
     }
