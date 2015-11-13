@@ -246,6 +246,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     }
     .img_right{
         max-width:100%;
+        margin-bottom:10px;
     }
     #our_products .col-md-4, #our_products2 .col-md-4{
         padding:0 !important;
