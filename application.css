@@ -242,6 +242,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     }
     .img_left{
         padding:0;
+        margin-bottom:10px;
     }
 }
 @media screen and (min-width: 310px) {
