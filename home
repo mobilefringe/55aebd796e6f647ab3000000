@@ -130,9 +130,9 @@
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/windows" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447378098000/img_inside_win.jpg" data-title="Android - the fastest growing marketplace" data-description="<p>We have dedicated developers who are trained in Microsoft tools and technologies.</p>">
+                <a href="/posts/windows" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447378098000/img_inside_win.jpg" data-title="We write fast and fluid native Windows Store Apps" data-description="<p>We have dedicated developers who are trained in Microsoft tools and technologies.</p>">
                     <div class="og-overlay"></div>
-                    <span class="og-title">We write fast and fluid native Windows Store Apps</span>
+                    <span class="og-title">We write fast and fluid native Windows Store Apps</span>
                     <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447364254000/dev_win.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
