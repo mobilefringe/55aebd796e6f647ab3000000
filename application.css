@@ -221,6 +221,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 @media(max-width:1024px){
     .position_parallax{
         height:500px;
+        background-attachment: scroll;
     }
     .img_right{
         margin-bottom: 16px;
