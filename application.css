@@ -240,6 +240,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     .move_me.size-full{
         height:300px;
     }
+    .img_left{
+        padding:0;
+    }
 }
 @media screen and (min-width: 310px) {
 
