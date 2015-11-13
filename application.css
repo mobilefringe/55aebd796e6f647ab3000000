@@ -145,6 +145,10 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     margin-top:15px;
 }
 
+.margin_20{
+    margin-bottom:20px;
+}
+
 .margin_top_30{
     margin-top:30px;
 }
