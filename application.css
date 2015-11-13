@@ -222,9 +222,6 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     .navbar .navbar-brand{
         padding-right:0;
     }
-    .move_me.size-full{
-        height:300px;
-    }
     .position_parallax{
         height:500px;
         background-attachment: scroll;
@@ -239,7 +236,11 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
         padding-right:10px;
     }
 }
-
+@media(max-width:800px){
+    .move_me.size-full{
+        height:300px;
+    }
+}
 @media screen and (min-width: 310px) {
 
 .main_caption {
