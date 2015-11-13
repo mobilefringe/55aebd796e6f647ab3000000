@@ -222,7 +222,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     .img_right{
         margin-bottom: 16px;
     }
-    #our_products .col-md-4{
+    #our_products .col-md-4, #our_products2 .col-md-4{
         padding:0 6px !important;
     }
     .img_left{
