@@ -218,6 +218,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     .img_right{
         margin-bottom: 12px;
     }
+    #our_products .col-md-4{
+        padding:10px;
+    }
 }
 
 @media screen and (min-width: 310px) {
