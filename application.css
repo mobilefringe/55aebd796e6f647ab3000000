@@ -17,6 +17,10 @@ p{
 a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.current-menu-parent > a, .team-box ul.social li a {
     color: #57b6dd;
 }
+.mf_logo{
+    width:200px;    
+}
+
 .position_parallax{
     position:relative;
     background: url(http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447358258000/homebanner.jpg);
