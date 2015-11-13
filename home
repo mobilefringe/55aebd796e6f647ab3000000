@@ -130,6 +130,13 @@
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="/posts/windows" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447378098000/img_inside_win.jpg" data-title="Android - the fastest growing marketplace" data-description="<p>Android development continues to have&nbsp;tremendous growth. &nbsp;Android is reshaping the way people communicate. </p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">Android - the fastest growing marketplace</span>
+                    <img src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447364254000/dev_win.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
                 <a href="/posts/ibeacons" data-largesrc="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_ibeacons_inside.jpg" data-title="iBeacons" data-description="<p>Rarely does a technology generate so much buzz as iBeacons have in the past years. If you haven’t already heard about the potential of iBeacons...then you soon will. With all the press around iBeacons its easy to get lost in what it can really offer to an industry like the shopping center industry and retail in general.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">iBeacons</span>
