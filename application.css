@@ -258,6 +258,12 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
         font-size: 18px;
         line-height: 20px;
     }
+    .custom_caption h2 {
+        font-size: 16px;
+        color: #fff;
+        margin-top: 0px !important;
+        line-height: 26px;
+    }
     .move_me.size-full{
         height:inherit;
     }
