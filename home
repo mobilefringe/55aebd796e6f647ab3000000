@@ -54,10 +54,10 @@
                 </div>
                 <div class="col-md-4">
                     <div class="animated fadeInUp medialeft" data-effect="fadeInUp">
-                        <a href="/posts/geolocation" title="See Geo-Location For Rogers Find My Phone"><img class="img_right" style="width: 100%; max-width: 380px; margin-bottom: 13px; float: right;" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092103000/home_geolocation.jpg" alt="" /></a>
+                        <a href="/posts/geolocation" title="See Geo-Location For Rogers Find My Phone"><img class="img_right"  src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092103000/home_geolocation.jpg" alt="" /></a>
                     </div>
                     <div class="animated fadeInUp" data-effect="fadeInUp">
-                        <a href="/posts/codecloud" title="Device Manager"><img class="mediaright2 img_right" style="width: 100%; max-width: 380px; margin-bottom: 10px; float: right;" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092092000/home_codecloud.jpg" alt="" /></a>
+                        <a href="/posts/codecloud" title="Device Manager"><img class="mediaright2 img_right" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447092092000/home_codecloud.jpg" alt="" /></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
