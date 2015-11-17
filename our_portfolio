@@ -1,0 +1,49 @@
+<style>
+    body{
+        padding-top: 68px;
+    }
+</style>
+<div class="text-center">
+    <h1 class="entry-title">OUR PORTFOLIO</h1>
+    <hr class="title-break">
+</div>
+<ul class="og-grid" id="og-grid">
+    <script id="store_list_template" type="x-tmpl-mustache/text">
+        <li class="animated fadeIn" data-effect="fadeIn" >
+            <a href="/posts/{{url}}">
+                <div class="og-overlay"></div>
+                <span class="og-title">{{name}}</span>
+                <img src="{{photo_url_abs}}" alt="client logo" style="width: 300px;">
+            </a>
+        </li>
+    </script>
+</ul>
+
+<script>
+    $(document).ready(function(e) {
+        init(e);
+        function renderAll (){
+            var stores = getRepoDetailsByName('Portfolio Thumbnails').images;
+            renderList('#og-grid','#store_list_template', stores);
+            show_content();
+        }
+        loadMallDataCached(renderAll); 
+    })
+    
+    function renderList(container, template, collection){
+        var item_list = [];
+        var item_rendered = [];
+        var template_html = $(template).html();
+        Mustache.parse(template_html);   // optional, speeds up future uses
+        $.each( collection , function( key, val ) {
+            var rendered = Mustache.render(template_html,val);
+            console.log(val)
+            item_rendered.push(rendered);
+        });
+    
+        $(container).show();
+        $(container).html(item_rendered.join(''));
+    }
+
+
+</script>
