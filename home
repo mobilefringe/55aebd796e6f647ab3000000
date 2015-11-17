@@ -49,7 +49,7 @@
             <div id="our_products2" class="clear">
                 <div class="col-md-8 hidden_phone">
                     <div class="animated fadeInUp" data-effect="fadeInUp">
-                        <a href="/posts/mobile-development--2"><img class="img_left" style="width: 100%; max-width: 770px; margin-bottom: 5%; float: left;" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447091995000/home_mobiledev.jpg" alt="" /></a>
+                        <a href="/posts/mobile-app-development"><img class="img_left" style="width: 100%; max-width: 770px; margin-bottom: 5%; float: left;" src="http://assets.codecloudapp.com/sites/55aebd796e6f647ab3000000/image/jpeg/1447091995000/home_mobiledev.jpg" alt="" /></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
