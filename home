@@ -230,6 +230,7 @@
 <script>
     $(document).ready(function(e){
         init(e);
+        var stores = getRepoDetailsByName('Portfolio Thumbnails').images.sortBy(function(o){ return new Date(o.updated_at) }).reverse().slice(0,4);
         show_content();
     });
 </script>
