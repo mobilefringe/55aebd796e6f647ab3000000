@@ -245,9 +245,7 @@
         Mustache.parse(template_html);   // optional, speeds up future uses
         $.each( collection , function( key, val ) {
             var rendered = Mustache.render(template_html,val);
-            if (val.url != ""){
-                item_rendered.push(rendered);
-            }
+            
         });
     
         $(container).show();
