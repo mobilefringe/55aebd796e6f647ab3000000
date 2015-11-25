@@ -231,7 +231,7 @@
     $(document).ready(function(e){
         init(e);
         var stores = getRepoDetailsByName('Portfolio Thumbnails').images.sortBy(function(o){ return new Date(o.updated_at) }).reverse().slice(0,4);
-        renderList('#og-recent_work_container','#recent_work_template', stores);
+        renderList('#recent_work_container','#recent_work_template', stores);
         show_content();
     });
 </script>
