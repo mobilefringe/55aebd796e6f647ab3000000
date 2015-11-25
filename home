@@ -236,7 +236,7 @@
             show_content();
         }
         loadMallDataCached(renderAll); 
-    })
+    });
     
     function renderList(container, template, collection){
         var item_list = [];
