@@ -174,7 +174,7 @@
                 <li class="animated fadeIn" data-effect="fadeIn">
                     <a href="/posts/device-manager" data-largesrc="{{photo_url_abs}}" data-title="{{name}}">
                         <div class="og-overlay"></div>
-                        <span class="og-title">Device Manager</span>
+                        <span class="og-title">{{name}}</span>
                         <img src="{{photo_url_abs}}" alt="" style="width: 300px;">
                     </a>
                 </li>
