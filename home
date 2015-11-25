@@ -238,7 +238,7 @@
                     published.push(v)
                 }
             });
-            renderList('#recent_work_container','#recent_work_template', published);
+            renderList('#recent_work_container','#recent_work_template', published.splice(0,4));
             show_content();
         }
         loadMallDataCached(renderAll); 
