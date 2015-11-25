@@ -238,7 +238,6 @@
                     published.push(v)
                 }
             });
-            console.log(published)
             renderList('#recent_work_container','#recent_work_template', published);
             show_content();
         }
