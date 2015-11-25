@@ -235,7 +235,7 @@
             var published = [];
             $.each(stores, function(i,v){
                 if (v.url != ""){
-                    published.push(published)
+                    published.push(v)
                 }
             });
             console.log(published)
