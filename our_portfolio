@@ -23,7 +23,7 @@
     $(document).ready(function(e) {
         init(e);
         function renderAll (){
-            var stores = getRepoDetailsByName('Portfolio Thumbnails').images.sortBy(function(o){ return new Date(o.updated_at) }).reverse();
+            var stores = getRepoDetailsByName('Portfolio Thumbnails').images.sortBy(function(o){ return new Date(o.updated_at) });
             renderList('#og-grid','#store_list_template', stores);
             show_content();
         }
