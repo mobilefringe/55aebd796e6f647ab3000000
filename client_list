@@ -23,7 +23,7 @@
     $(document).ready(function(e) {
         init(e);
         function renderAll (){
-            var stores = getStoresList().sortBy(function(o){ return new Date(o.updated_at) }).reverse();;
+            var stores = getStoresList().sortBy(function(o){ return new Date(o.updated_at) }).reverse();
             renderStoreList('#og-grid','#store_list_template', stores);
             show_content();
         }
