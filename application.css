@@ -54,6 +54,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .error_img_div{
     text-align: center;
     margin: 80px 10px;
+    img{
+        width:250px;
+    }
 }
 
 .custom_caption{
