@@ -51,6 +51,11 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     width:100%;
 }
 
+.error_img{
+    text-align: center;
+    margin: 80px 10px;
+}
+
 .custom_caption{
     padding: 0;
     margin: 0;
