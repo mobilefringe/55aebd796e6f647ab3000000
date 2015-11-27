@@ -51,7 +51,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     width:100%;
 }
 
-.error_img{
+.error_img_div{
     text-align: center;
     margin: 80px 10px;
 }
