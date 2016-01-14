@@ -6,7 +6,7 @@ function init(e){
         $('#sub_btn').attr('disabled', true)
         e.preventDefault();
         data = {};
-        data.send_to = "support@mobilefringe.com";
+        data.send_to = "contact@mobilefringe.com";
         data.subject = "Get in touch - Mobile Fringe form";
         data.body = {"email" : $('#yourEmail').val(), "name" : $('#yourName').val(), "message" : $('#yourMessage').val()};
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
