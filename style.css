@@ -16,8 +16,8 @@ Text Domain: THEMEUM
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700);
+@import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900);
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700);
 
 #main{
 	margin: 0 auto;
