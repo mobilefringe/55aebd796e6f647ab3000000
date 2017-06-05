@@ -1,0 +1,523 @@
+<!DOCTYPE HTML>
+<!--
+	Telemetry by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<meta property="og:title" content="{{meta_title}}">
+        <meta property="og:description" content="{{meta_description}}">
+        <meta property="og:image" content="{{meta_image}}">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{meta_description}}">
+        <meta name="keywords" content="{{meta_keywords}}">
+        <title>{{meta_title}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="blog" />
+        <meta property="og:site_name" content="Mobile Fringe" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@mobilefringe" />
+        <meta name="twitter:title" content="{{meta_title}}" />
+        <meta name="twitter:description" content="{{meta_description}}" />
+        <meta name="twitter:image" content="{{meta_image}}" /> 
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+			<header id="header" class="alt">
+
+				<!-- Logo -->
+					<div class="logo">
+						<a href="index.html">Mobile Fringe</a><span> on the edge of innovation</span>
+					</div>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="generic.html">Development</a></li>
+							<li><a href="elements.html">VC Funding</a></li>
+							<li>
+								<a href="#" class="icon fa-angle-down">More</a>
+								<ul>
+									<li><a href="#">Option One</a></li>
+									<li><a href="#">Option Two</a></li>
+									<li><a href="#">Option Three</a></li>
+									<li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+
+						</ul>
+					</nav>
+
+			</header>
+
+
+		<!-- Banner -->
+			<section id="banner">
+
+				<div class="inner">
+					<img src="http://codecloud.cdn.speedyrails.net/sites/57fe415b6e6f6463050d0000/image/png/1447442105000/mf_icon.png" alt="MF icon" style="width:150px">
+					<h2>We shape cutting-edge ideas <br>into software perfection</h2>
+					<ul class="actions">
+						<li><a href="#one" class="button wide scrolly">Discover</a></li>
+					</ul>
+				</div>
+			</section>
+
+
+
+		<!-- One -->
+			<section id="one" class="wrapper">
+				<div class="inner">
+					<div class=" style1 centered reversed">
+
+						<section>
+							<header>
+								<h2>We know software development....inside and out.</h2>
+								<p>Our award winning team delivers amazing results in all phases of software delivery. From concept and requirements to development and support...our team will amaze you every step of the way.</p>
+							</header>
+							<div class="features">
+								<article class="icon fa-mobile-phone">
+									<h3>Mobile App Development</h3>
+									<p>Our team began building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. We design our apps using Sketch to bring designs to life before development even begins.</p>
+									<a class="button small" style="cursor: pointer;" href="development.html">Learn More</a>
+								</article>
+								<article class="icon fa-desktop">
+									<h3>Web Development</h3>
+									<p>We are masters of web development using HTML5, CSS3 and Javascript. We design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. You'll be amazed at what mobile web can do!</p>
+									<a class="button  small" style="cursor: pointer;" href="development.html">Learn More</a>
+								</article>
+								<article class="icon fa-database">
+									<h3>Enterpise & CMS</h3>
+									<p>Our team has deep experience with backend and API development. From Ruby on Rails, Node.js and much more our platform have been deployed to fortune 500 organizations accross North America.</p>
+									<a class="button small" style="cursor: pointer;" href="development.html">Learn More</a>
+								</article>
+								<article class="icon fa-eye">
+									<h3>Artificial Intelligence & Machine Learning</h3>
+									<p>Our team is growing rapidly in the field of AI and machine learning. See how this exciting technology can unlock amazing insights into your data and business processes. </p>
+									<a class="button small" style="cursor: pointer;" href="development.html">Learn More</a>
+								</article>
+
+							</div>
+						</section>
+					</div>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style1 special">
+				<div class="inner">
+					<h2>Our development track record...</h2>
+					<div class="stats">
+						<article>
+							<h3><span>62</span> mobile apps</h3>
+							<p>iOS, Android, Xamerine, react-native</p>
+						</article>
+						<article>
+							<h3><span>211</span> web projects</h3>
+							<p>HTML5, CSS3, Javascript, Angular, Vue.js, react.js</p>
+						</article>
+						<article>
+							<h3><span>43</span> enterpise platforms</h3>
+							<p>Node.js, Ruby on Rails, Python, Java</p>
+						</article>
+						<article>
+							<h3><span>141</span> <nobr>thrilled clients</nobr></h3>
+							<p>become 142 today!</p>
+						</article>
+					</div>
+				</div>
+			</section>
+		<!-- Three -->
+			<section id="three" class="wrapper">
+				<div class="inner">
+					<ul class="tabs">
+						<li>
+							<h3>Our Skills</h3>
+							<div class="split reversed">
+								<div class="content">
+									<h2>The best full stack developers in the business</h2>
+									<p>The term "Full Stack" gets thrown around a lot, but for us it means something very important...it means picking the right tools for the right job. Our team has extensive knowledge and expeirience in software development and selecting the right technology stack for a project is as important as how the code itself is written. We pride ourselves in staying up to speed on every advancement in our industry by learning new tools, software languages and frameworks in building great software. </p>
+									<ul class="actions">
+										<li><a href="#" class="button small">Learn More</a></li>
+									</ul>
+								</div>
+								<div class="image"><img src="http://via.placeholder.com/400x400" alt="" /></div>
+							</div>
+						</li>
+						<li>
+							<h3>Our Approach</h3>
+							<div class="split reversed">
+								<div class="content">
+									<h2>Small, Agile, Highly Skilled Teams</h2>
+									<p>Our approach is simple....less is more. We are fanatical believers that the best products come from small, agile, highly skilled teams. Our engineers are deeply inloved in the concept and requirements phase bringing the full vision of projects to life. We also believe strongly in selecting the right tech stack for a project. From node.js, Ruby on Rails, native apps vs mobile web...we have the experience to select the right tools for the job.</p>
+									<ul class="actions">
+										<li><a href="#" class="button small">Learn More</a></li>
+									</ul>
+								</div>
+								<div class="image"><img src="http://via.placeholder.com/400x400" alt="" /></div>
+							</div>
+						</li>
+						<li>
+							<h3>Our Team</h3>
+							<div class="split reversed">
+								<div class="content">
+									<h2>The best and the brightest</h2>
+									<p>We care deeply about the team we work with everyday. We are passinate about technology and working together to acheve something great. Our development team is located all onsite in our development offices and <u>we never outsource any development</u>.</p><p>Our team members come from the best schools in Canada including Waterloo, Univeristy of Toronto, Ottawa, Western, Ryerson and more. Our team has worked with Canada's laregst telecommuncations companies and real estate firms in North America.  </p>
+									<ul class="actions">
+										<li><a href="#" class="button small">Learn More</a></li>
+									</ul>
+								</div>
+								<div class="image"><img src="http://via.placeholder.com/400x400" alt="" /></div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</section>
+			<section id="four" class="wrapper  special" style="padding-top:0px">
+				<h2>Our Great Clients...</h2>
+				<div class="inner">
+					<div class="stats logos">
+						<article style="border-color:#FFFFFF">
+							<img src="images/logos/rogerslogo.jpg" style="width:200px"/>
+						</article>
+						<article style="border-color:#FFFFFF">
+							<img src="images/logos/canadiantirelogo.jpg" style="width:200px"/>
+						</article>
+						<article style="border-color:#FFFFFF">
+							<img src="images/logos/woodbinelogo.jpg" style="width:200px"/>
+						</article>
+						<article style="border-color:#FFFFFF">
+							<img src="images/logos/oxfordlogo.jpg" style="width:200px"/>
+						</article>
+					</div>
+				</div>
+				<ul class="actions">
+					<li><a href="#" class="button small">See More</a></li>
+				</ul>
+			</section>
+
+		<!-- Four -->
+			<section id="five" class="quotes">
+				<article class="icon fa-quote-left">
+					<span class="image"><img src="images/pic03.jpg" alt="" data-position="center" /></span>
+					<h2>"Sed ultrices consequat dolor nulla fringilla dignissim"</h2>
+					<div class="author">
+						<span class="name">Jane Doe</span>
+						<span class="title">Ipsum dolor nullam</span>
+					</div>
+				</article>
+				<article class="icon fa-quote-left">
+					<span class="image"><img src="images/pic04.jpg" alt="" data-position="left" /></span>
+					<h2>"Nam velit et lorem porta quis at pulvinar tellus nibh"</h2>
+					<div class="author">
+						<span class="name">John Doe</span>
+						<span class="title">Ipsum dolor nullam</span>
+					</div>
+				</article>
+			</section>
+
+		<!-- Five -->
+			<section id="five" class="wrapper">
+				<div class="inner">
+					<div class="split">
+						<section>
+							<h2>Investments & VC Funding</h2>
+							<p>Our experience and track record has given us great opportunities to invest and partner with startups and small businesses that are focused on excelling in key growth areas. We’re actively seeking young businesses in the tech, virtual reality, artificial intelligence, banking, finance and real estate industries.
+We focus on growth planning, strategic investments, advisory boards, angel investing and capital injections.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">Learn More</a></li>
+							</ul>
+						</section>
+						<section>
+							<span class="image fit"><img src="http://via.placeholder.com/400x300" alt="" /></span>
+
+						</section>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<div class="split style1">
+						<div class="contact">
+							<h2>Contact</h2>
+							<ul class="contact-icons">
+								<li class="icon fa-home"><a href="#">216 Chrislea Road - Unit 502 <br>Vaughan, ON L4L 8S5<br>Canada</a></li>
+								<li class="icon fa-envelope-o"><a href="#">contact@mobilefringe.com</a></li>
+							</ul>
+							<ul class="icons-bordered">
+								<li><a class="icon fa-facebook" href="#">
+									<span class="label">Facebook</span>
+								</a></li>
+								<li><a class="icon fa-twitter" href="#">
+									<span class="label">Twitter</span>
+								</a></li>
+								<li><a class="icon fa-instagram" href="#">
+									<span class="label">Instagram</span>
+								</a></li>
+								<li><a class="icon fa-github" href="#">
+									<span class="label">GitHub</span>
+								</a></li>
+								<li><a class="icon fa-linkedin" href="#">
+									<span class="label">LinkedIn</span>
+								</a></li>
+							</ul>
+						</div>
+						<form action="#" method="post">
+							<h2>Email Us</h2>
+							<div class="field half first">
+								<input name="name" id="name" placeholder="Name" type="text" />
+							</div>
+							<div class="field half">
+								<input name="email" id="email" placeholder="Email" type="email" />
+							</div>
+							<div class="field">
+								<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+							</div>
+							<ul class="actions">
+								<li><input value="Send Message" class="button" type="submit" /></li>
+							</ul>
+						</form>
+					</div>
+					<div class="copyright">
+						<p>&copy; 2017 Mobile Fringe Inc. All rights reserved.</p>
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.selectorr.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+
+<!-- OLD STUFF-->
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta property="og:title" content="{{meta_title}}">
+        <meta property="og:description" content="{{meta_description}}">
+        <meta property="og:image" content="{{meta_image}}">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{meta_description}}">
+        <meta name="keywords" content="{{meta_keywords}}">
+        <title>{{meta_title}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="blog" />
+        <meta property="og:site_name" content="Mobile Fringe" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@mobilefringe" />
+        <meta name="twitter:title" content="{{meta_title}}" />
+        <meta name="twitter:description" content="{{meta_description}}" />
+        <meta name="twitter:image" content="{{meta_image}}" /> 
+        
+        <link rel="shortcut icon" href="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/>    
+        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="//www.mobilefringe.com/feed/" />
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+        
+        <link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' media='all' />
+        <link rel='stylesheet' id='component-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/component.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='og-component-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/og-component.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='style-light-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/style-light.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='light-blue-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/light-blue.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='venobox-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/venobox.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='zocial-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/zocial.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='animate-css'  href='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/animate.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='open-sans_one-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='open-sans_two-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='open-sans_three-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' href="/application.css"/>
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/html5shiv.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/respond.min.js"></script>
+        <![endif]-->
+
+                
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.min.js"></script>
+        <!--MallMaverick v1.0-->
+        <script src="//mallmaverick.codecloudapp.com/mallmaverick.js?v=0.3"></script>
+        <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
+        <script>
+            setEndPoint('//mobilefringe.mallmaverick.com/api/v2/mobilefringe/all.json');
+            sessionStorage.setItem('primary_locale', 'en-CA');
+            sessionStorage.setItem('secondary_locale', 'fr-CA');
+        </script>
+        <link rel='shortlink' href='//www.mobilefringe.com/' />
+    </head>
+    <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav-menu" style="margin-top: 20px;">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/57fe415b6e6f6463050d0000/image/png/1447195156000/mf_logo2.png" style="width:170px" alt="logo">
+                    </a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="navbar-collapse collapse" id="nav-menu">
+                    <ul id="menu-main-menu" class="nav navbar-nav navbar-right navlist">
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#full-support" class="sscroll">PRODUCTS</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#background-video" class="sscroll">MALL MAVERICK</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#377-2" class="sscroll">DEVELOPMENT</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a></li>
+                        <li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/client_list" class="no-scroll">CLIENT LIST</a></li>
+                                <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/our_portfolio" class="no-scroll">OUR PORTFOLIO</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+        <div>
+            {{yield}}
+        </div>
+        <section id="contact">
+            <div class="section-wrapper-2">
+                <div class="section-title">
+                    <hr class="title-break">
+                    <h2 class="title animated fadeInDown" data-effect="fadeInDown">GET IN TOUCH</h2>
+                    <h3 class="subtitle animated fadeInUp" data-effect="fadeInUp" style="margin-bottom: 50px; color:#25292c; padding-left: 25px; padding-right: 25px;">We would love to discuss your projects</h3>
+                </div>
+                <div class="section-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 mg-sm animated fadeIn" data-effect="fadeIn">
+                                <div class="wpcf7">
+                                    <div class="screen-reader-response"></div>
+                                        <form id="email_form" style=" margin-bottom: 50px;">
+                                            <div class="text-left">
+                                                <div class="form-group">
+                                                    <label class="required" for="yourEmail">Email address:</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" size="40" class="form-control" id="yourEmail" aria-required="true" aria-invalid="false" required></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="required" for="yourName">Name</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" value="" size="40" class="form-control" id="yourName" aria-required="true" aria-invalid="false" required></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="required" for="yourMessage">Message</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="message" cols="40" rows="4" class="form-control" id="yourMessage" aria-required="true" aria-invalid="false" required></textarea></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <p id="email_sent" style="display:none">Thank you for contacting us. We will get back to you soon.</p>
+                                                    <br />
+                                                    <input type="submit" value="Submit" id="sub_btn" class="wpcf7-form-control wpcf7-submit btn btn-lg btn-light btn-default">
+                                                </div>
+                                                
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            <div class="col-md-6 mg-sm text-left animated fadeIn" data-effect="fadeIn">
+                                <h4 style="margin-top: 0px; color:#25292c">Get to know us</h4>
+                                <p style="color:#25292c">
+                                    If you are interested in any of our mobile products or services, please do not hesitate to send us an email.
+                                </p>
+                                <div class="spacer small"></div>
+                                <h4 style="color:#25292c">Mobile Fringe Office</h4>
+                                <p>
+                                    216 Chrislea Road - Unit 502
+                                    <br>Woodbridge, ON - L4L 8S5
+                                    <br>Canada
+                                </p>
+                                <br>
+                                <br>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="footer">
+            <div class="section-wrapper">
+                <footer class="footer white section-wrapper" style="padding-top: 0px;">
+                    <nav class="footer-nav">
+                        <ul id="menu-secondary-menu" class="">
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/client_list" class="no-scroll">Clients List</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/our_portfolio" class="no-scroll">Our Apps</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-about-mobile-fringe" class="no-scroll">About Us</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-iwork-mobilefringe" class="no-scroll">Work @ Mobile Fringe</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-privacy-policy" class="no-scroll">Privacy Policy</a></li>
+                        </ul>
+                    </nav>
+                    <p class="copyright">© 2014 Mobile Fringe Inc. All rights reserved</p>
+                    <div class="footer-logo">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/57fe415b6e6f6463050d0000/image/png/1447195156000/mf_logo2.png" style="width:170px" title="">
+                    </div>
+                    
+                </footer>
+            </div>
+        </section>
+        <div class="totop" id="backtotop">
+            <span>
+                <a href="#home" class="first sscroll"><i class="fa fa-angle-up"></i></a>
+                <a href="#home" class="hover sscroll"><i class="fa fa-angle-up"></i></a>
+            </span>
+        </div>
+        <script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
+        <script src="/application.js"></script>
+        <script type='text/javascript' src='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/jquery.scrollTo.js'></script>
+        <script type='text/javascript' src='//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/jquery.nav.js'></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.parallax.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/modernizr.custom.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/grid.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.backgroundvideo.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.backtotop.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.countTo.js"></script>
+        
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/waypoints.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/venobox.min.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.fitvid.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.sudoslider.min.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.superslides.min.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.countdown.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/main.js"></script>
+    </body>
+</html>
