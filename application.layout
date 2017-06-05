@@ -18,7 +18,7 @@
         <meta name="twitter:title" content="{{meta_title}}" />
         <meta name="twitter:description" content="{{meta_description}}" />
         <meta name="twitter:image" content="{{meta_image}}" /> 
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/html5shiv.js"></script><![endif]-->
 		<link rel='stylesheet' href="/application.css"/>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
@@ -127,7 +127,7 @@
 			<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.selectorr.min.js"></script>
 			<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/skel.min.js"></script>
 			<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/respond.min.js"></script><![endif]-->
 			<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/main.js"></script>
 
 	</body>
