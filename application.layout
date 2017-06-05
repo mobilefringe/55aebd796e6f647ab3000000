@@ -37,8 +37,8 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Home</a></li>
-							<li><a href="#one" class="scrolly">Development</a></li>
-							<li><a href="#vc_funding" class="scrolly">VC Funding</a></li>
+							<li><a href="/development" class="scrolly">Development</a></li>
+							<li><a href="/vc_funding" class="">VC Funding</a></li>
 							<li>
 								<a href="#" class="icon fa-angle-down">More</a>
 								<ul>
