@@ -24,7 +24,7 @@
         <meta name="twitter:description" content="{{meta_description}}" />
         <meta name="twitter:image" content="{{meta_image}}" /> 
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel='stylesheet' href="/application.css"/>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
