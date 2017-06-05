@@ -38,7 +38,7 @@
 						<ul>
 							<li><a href="index.html">Home</a></li>
 							<li><a href="#one" class="scrolly">Development</a></li>
-							<li><a href="elements.html">VC Funding</a></li>
+							<li><a href="#vc_funding" class="scrolly">VC Funding</a></li>
 							<li>
 								<a href="#" class="icon fa-angle-down">More</a>
 								<ul>
