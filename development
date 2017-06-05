@@ -1,0 +1,30 @@
+
+
+<div class="features">
+  <article class="icon fa-mobile-phone">
+    <h3>Mobile Development</h3>
+    <p>We started building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. Mobile apps have come along way and we've stayed on the cutting edge. If you need to take your business mobile we can help you every step of the way.</p>
+    <a class="button small" style="cursor: pointer;">Learn More</a>
+  </article>
+  <article class="icon fa-desktop">
+    <h3>Web Development</h3>
+    <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
+    <a class="button  small" style="cursor: pointer;">Learn More</a>
+  </article>
+  <article class="icon fa-database">
+    <h3>Enterrpise & CMS</h3>
+    <p>In addition to building compelling mobile and desktop experiences, our team has deep experience with backend development. From Ruby on Rails, Node.js and much more our back end delivery has been deployed to fortune 500 organizations accross North America.</p>
+    <a class="button small" style="cursor: pointer;">Learn More</a>
+  </article>
+  <article class="icon fa-users">
+    <h3>Investments & Capital</h3>
+    <p>Our experience and track record has given us great opportunities to invest and partner with startups and small businesses that are focused on excelling in key growth areas. We’re actively seeking young businesses in the tech, virtual reality, artificial intelligence, banking, finance and real estate industries.
+We focus on growth planning, strategic investments, advisory boards, angel investing and capital injections.</p>
+  </article>
+</div>
+
+<article class="icon fa-database">
+  <h3>Artificial Intelligence & Machine Learning</h3>
+  <p>Our team has deep experience with backend and API development. From Ruby on Rails, Node.js and much more our platform have been deployed to fortune 500 organizations accross North America.</p>
+  <a class="button small" style="cursor: pointer;">Learn More</a>
+</article>
