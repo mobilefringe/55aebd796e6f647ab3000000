@@ -146,7 +146,7 @@
 		<!-- Four -->
 			<section id="five" class="quotes">
 				<article class="icon fa-quote-left">
-					<span class="image"><img src="images/pic03.jpg" alt="" data-position="center" /></span>
+					<span class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1485058400000/pic04.jpg" alt="" data-position="center" /></span>
 					<h2>"Sed ultrices consequat dolor nulla fringilla dignissim"</h2>
 					<div class="author">
 						<span class="name">Jane Doe</span>
@@ -154,7 +154,7 @@
 					</div>
 				</article>
 				<article class="icon fa-quote-left">
-					<span class="image"><img src="images/pic04.jpg" alt="" data-position="left" /></span>
+					<span class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1485058400000/pic03.jpg" alt="" data-position="left" /></span>
 					<h2>"Nam velit et lorem porta quis at pulvinar tellus nibh"</h2>
 					<div class="author">
 						<span class="name">John Doe</span>
