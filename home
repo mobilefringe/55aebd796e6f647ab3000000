@@ -31,7 +31,7 @@
 								<article class="icon fa-desktop">
 									<h3>Web Development</h3>
 									<p>We are masters of web development using HTML5, CSS3 and Javascript. We design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. You'll be amazed at what mobile web can do!</p>
-									<a class="button  small" style="cursor: pointer;" href="development.html">Learn More</a>
+									<a class="button  small" style="cursor: pointer;" href="/web_development">Learn More</a>
 								</article>
 								<article class="icon fa-database">
 									<h3>Enterpise & CMS</h3>
