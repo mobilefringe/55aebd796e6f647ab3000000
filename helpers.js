@@ -1,7 +1,8 @@
 $(document).ready(function(){
     console.log("good morning!");
     $('#email_form').submit(function(e){
-        
+        var pathArray = window.location.pathname.split( '/' );
+        var slug = pathArray[pathArray.length-1];
         $('#sub_btn').attr('disabled', true)
         e.preventDefault();
         data = {};
@@ -20,8 +21,7 @@ $(document).ready(function(){
         // });
     });
     $("#sub_btn").click(function(){
-        var pathArray = window.location.pathname.split( '/' );
-        var slug = pathArray[pathArray.length-1];
+       
  
         console.log("hello",slug);
     });
