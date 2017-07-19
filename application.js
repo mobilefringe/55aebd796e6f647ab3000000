@@ -2,29 +2,6 @@
 
 function init(e){
     $('<div class="modal-backdrop custom_backdrop"><img src="//kodekloud.s3.amazonaws.com/sites/554a79236e6f64713f000000/69e8cd982124dc73de1f5a67a627ee75/loading.gif" class="" alt=""></div>').appendTo(document.body);
-    $('#email_form').submit(function(e){
-        
-        var pathArray = window.location.pathname.split( '/' );
-        var slug = pathArray[pathArray.length-1];
-        prefix = get_prefix();
-        console.log("hello",pathArray,slug,prefix);
-        $('#sub_btn').attr('disabled', true)
-        e.preventDefault();
-        data = {};
-        data.send_to = "contact@mobilefringe.com";
-        data.subject = "Get in touch - Mobile Fringe form";
-        data.body = {"email" : $('#email').val(), "name" : $('#name').val(), "message" : $('#message').val()};
-        $.post('//mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
-            if(textStatus == "success"){
-                $('#email_sent').fadeIn();
-                $('#email_form').trigger('reset');
-                $('#sub_btn').removeAttr("disabled");
-            }
-            else{
-                alert("Error sending email. Please try again later.");
-            }
-        });
-    });
 }
 
 function renderPostDetails(container, template, collection){
