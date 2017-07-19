@@ -1,7 +1,6 @@
 $(document).ready(function(){
     console.log("good morning!");
     $('#email_form').submit(function(e){
-        
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
         prefix = get_prefix();
