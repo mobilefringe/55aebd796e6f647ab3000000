@@ -2,7 +2,7 @@ $(document).ready(function(){
     $('#email_form').submit(function(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
-        if(slug== "") {
+        if(slug === "") {
             slug = "home"
         }
         console.log(slug);
