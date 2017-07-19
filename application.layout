@@ -92,19 +92,19 @@
 								<li class="icon fa-envelope-o"><a href="#">contact@mobilefringe.com</a></li>
 							</ul>
 							<ul class="icons-bordered">
-								<li><a class="icon fa-facebook" href="https://www.facebook.com/Mobile-Fringe-323681052143">
+								<li><a class="icon fa-facebook" href="https://www.facebook.com/Mobile-Fringe-323681052143" target="_blank">
 									<span class="label">Facebook</span>
 								</a></li>
-								<li><a class="icon fa-twitter" href="https://twitter.com/mobilefringe">
+								<li><a class="icon fa-twitter" href="https://twitter.com/mobilefringe" target="_blank">
 									<span class="label">Twitter</span>
 								</a></li>
-								<li><a class="icon fa-instagram" href="#">
+								<li><a class="icon fa-instagram" href="#" target="_blank">
 									<span class="label">Instagram</span>
 								</a></li>
-								<li><a class="icon fa-github" href="https://github.com/mobilefringe">
+								<li><a class="icon fa-github" href="https://github.com/mobilefringe" target="_blank">
 									<span class="label">GitHub</span>
 								</a></li>
-								<li><a class="icon fa-linkedin" href="https://ca.linkedin.com/company/mobile-fringe">
+								<li><a class="icon fa-linkedin" href="https://ca.linkedin.com/company/mobile-fringe" target="_blank">
 									<span class="label">LinkedIn</span>
 								</a></li>
 							</ul>
