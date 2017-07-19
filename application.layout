@@ -35,11 +35,6 @@
 		<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/respond.min.js"></script><![endif]-->
 		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/main.js"></script>
 		<script src="/helpers.js"></script>
-		<script>
-            setEndPoint('//mobilefringe.mallmaverick.com/api/v2/mobilefringe/all.json');
-            sessionStorage.setItem('primary_locale', 'en-CA');
-            sessionStorage.setItem('secondary_locale', 'fr-CA');
-        </script>
 	</head>
 	<body id="top">
 
