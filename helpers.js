@@ -22,7 +22,7 @@ $(document).ready(function(){
     $("#sub_btn").click(function(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
-        prefix = get_prefix();
-        console.log("hello",pathArray,slug,prefix);
+ 
+        console.log("hello",pathArray,slug);
     });
 });
