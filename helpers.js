@@ -20,9 +20,4 @@ $(document).ready(function(){
         //     }
         // });
     });
-    $("#sub_btn").click(function(){
-       
- 
-        console.log("hello",slug);
-    });
 });
