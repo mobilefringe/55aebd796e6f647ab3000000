@@ -2,6 +2,9 @@ $(document).ready(function(){
     $('#email_form').submit(function(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
+        if(slug== "") {
+            
+        }
         console.log(slug);
         $('#sub_btn').attr('disabled', true)
         e.preventDefault();
