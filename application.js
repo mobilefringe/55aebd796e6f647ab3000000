@@ -7,7 +7,7 @@ function init(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
         prefix = get_prefix();
-        console.log("hello");
+        console.log("hello",pathArray,slug,prefix);
         $('#sub_btn').attr('disabled', true)
         e.preventDefault();
         data = {};
