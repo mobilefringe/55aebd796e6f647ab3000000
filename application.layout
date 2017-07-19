@@ -99,13 +99,13 @@
 						<form  id="email_form">
 							<h2>Email Us</h2>
 							<div class="field half first">
-								<input name="name" id="name" placeholder="Name" type="text" />
+								<input name="name" id="name" placeholder="Name" type="text" class="form-control" />
 							</div>
 							<div class="field half">
-								<input name="email" id="email" placeholder="Email" type="email" />
+								<input name="email" id="email" placeholder="Email" type="email" class="form-control"/>
 							</div>
 							<div class="field">
-								<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+								<textarea name="message" id="message" rows="6" placeholder="Message" class="form-control"></textarea>
 							</div>
 							<ul class="actions">
 								<li><input value="Send Message" class="button" type="submit" id="sub_btn"/></li>
