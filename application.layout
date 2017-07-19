@@ -128,6 +128,7 @@
 			<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/util.js"></script>
 			<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/respond.min.js"></script><![endif]-->
 			<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/main.js"></script>
+			<script src="/helpers.js"></script>
 
 	</body>
 </html>
