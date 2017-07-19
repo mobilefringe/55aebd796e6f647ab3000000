@@ -23,6 +23,6 @@ $(document).ready(function(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
  
-        console.log("hello",pathArray,slug);
+        console.log("hello",slug);
     });
 });
