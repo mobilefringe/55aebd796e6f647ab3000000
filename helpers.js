@@ -3,7 +3,7 @@ $(document).ready(function(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
         if(slug== "") {
-            
+            slug = "home page"
         }
         console.log(slug);
         $('#sub_btn').attr('disabled', true)
