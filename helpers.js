@@ -10,7 +10,7 @@ $(document).ready(function(){
         e.preventDefault();
         data = {};
         data.send_to = "contact@mobilefringe.com";
-        data.subject = "Get in touch - Mobile Fringe form (sent from" +slug;
+        data.subject = "Get in touch - Mobile Fringe form (sent from " +slug + ")";
         data.body = {"email" : $('#email').val(), "name" : $('#name').val(), "message" : $('#message').val()};
         $.post('//mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
             if(textStatus == "success"){
