@@ -8,12 +8,12 @@
     </article>
 </section>
 <section id="web_dev" class="wrapper page_content">
-<a name="web_development"></a>
-<article class="icon fa-desktop">
-    <h3>Web Development</h3>
-    <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
-    <a class="button  small" style="cursor: pointer;">Learn More</a>
-  </article>
+    <a name="web_development"></a>
+    <article class="icon fa-desktop">
+        <h3>Web Development</h3>
+        <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
+        <a class="button  small" style="cursor: pointer;">Learn More</a>
+    </article>
 </section>
 <section id="cms_dev" class="wrapper page_content">
 <a name="cms"></a>
