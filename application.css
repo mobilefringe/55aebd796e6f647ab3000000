@@ -4903,11 +4903,11 @@
     width:200px;
     height:80px;
     float:left;
-    background: url(//codecloud.cdn.speedyrails.net/sites/592482696e6f6450ebc40000/image/png/1495569752000/logo.png) no-repeat scroll 0% 0% transparent;
+    background: url('http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png') no-repeat scroll 0% 0% transparent;
 }
 
 .header-inside a.logo:hover {
-    background: url(//codecloud.cdn.speedyrails.net/sites/592482696e6f6450ebc40000/image/png/1495569772000/logo-over.png) no-repeat scroll 0% 0% transparent;
+    background:url('http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png') no-repeat scroll 0% 0% transparent;
 }
 
 
