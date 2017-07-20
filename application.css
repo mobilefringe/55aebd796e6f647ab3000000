@@ -4913,10 +4913,12 @@
     background-size:contain;
     /*no-repeat scroll 0% 0% transparent;*/
 }
-.logo:hover, .logo > a:hover  {
+.logo:hover  {
     color:#5ac3d6;
 }
-
+.logo > a:hover  {
+    color:#5ac3d6;
+}
 /*#header > .logo > a:hover  {*/
 /*    color:#5ac3d6;*/
 /*}*/
