@@ -1,5 +1,5 @@
 
-<section id="app_dev" class="wrapper">
+<section id="app_dev" class="wrapper page_content">
 <a name="mobile_app"></a>
 <article class="icon fa-mobile-phone">
     <h3>Mobile Development</h3>
@@ -7,7 +7,7 @@
     <a class="button small" style="cursor: pointer;">Learn More</a>
   </article>
 </section>
-<section id="web_dev" class="wrapper">
+<section id="web_dev" class="wrapper page_content">
 <a name="web_development"></a>
 <article class="icon fa-desktop">
     <h3>Web Development</h3>
@@ -15,7 +15,7 @@
     <a class="button  small" style="cursor: pointer;">Learn More</a>
   </article>
 </section>
-<section id="cms_dev" class="wrapper">
+<section id="cms_dev" class="wrapper page_content">
 <a name="cms"></a>
 <article class="icon fa-database">
     <h3>Enterrpise & CMS</h3>
@@ -23,7 +23,7 @@
     <a class="button small" style="cursor: pointer;">Learn More</a>
   </article>
 </section>
-<section id="ai_dev" class="wrapper">
+<section id="ai_dev" class="wrapper page_content">
 <a name="ai"></a>
 <article class="icon fa-users">
         <h3>Artificial Intelligence & Machine Learning</h3>
