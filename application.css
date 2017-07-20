@@ -4922,7 +4922,7 @@
     color:#5ac3d6;
 }
 #header > .logo > span:hover {
-     color:#5ac3d6;
+    border-left: solid 1px rgba(255, 255, 255, 0.75);
 }
 
 
