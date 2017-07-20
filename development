@@ -21,7 +21,7 @@
         <h3>Enterrpise & CMS</h3>
         <p>In addition to building compelling mobile and desktop experiences, our team has deep experience with backend development. From Ruby on Rails, Node.js and much more our back end delivery has been deployed to fortune 500 organizations accross North America.</p>
         <a class="button small" style="cursor: pointer;">Learn More</a>
-     </article>
+    </article>
 </section>
 <section id="ai_dev" class="wrapper page_content">
 <a name="ai"></a>
