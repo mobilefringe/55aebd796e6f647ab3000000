@@ -4920,19 +4920,11 @@
         border-left: solid 1px rgba(93, 201, 221,0.75);
     }
 }
-.logo:hover a{
-     color:#5ac3d6;
-}
 
-
-/*#header > .logo > a:hover  {*/
-/*    color:#5ac3d6;*/
-/*    border-left: solid 1px rgba(93, 201, 221,0.75);*/
-/*}*/
-#header > .logo > span:hover {
+#header > .logo > a:hover  {
     color:#5ac3d6;
-    border-left: solid 1px rgba(93, 201, 221,0.75);
 }
+
 
 
 
