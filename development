@@ -30,17 +30,17 @@
 We focus on growth planning, strategic investments, advisory boards, angel investing and capital injections.</p>
   </article>
 </section>
-<section id="development" class="wrapper">
-<div class="features">
+<!--<section id="development" class="wrapper">-->
+<!--<div class="features">-->
   
   
   
   
 <!--</div>-->
 
-<article class="icon fa-database">
-  <h3>Artificial Intelligence & Machine Learning</h3>
-  <p>Our team has deep experience with backend and API development. From Ruby on Rails, Node.js and much more our platform have been deployed to fortune 500 organizations accross North America.</p>
-  <a class="button small" style="cursor: pointer;">Learn More</a>
-</article>
-</section>
+<!--<article class="icon fa-database">-->
+<!--  <h3>Artificial Intelligence & Machine Learning</h3>-->
+<!--  <p>Our team has deep experience with backend and API development. From Ruby on Rails, Node.js and much more our platform have been deployed to fortune 500 organizations accross North America.</p>-->
+<!--  <a class="button small" style="cursor: pointer;">Learn More</a>-->
+<!--</article>-->
+<!--</section>-->
