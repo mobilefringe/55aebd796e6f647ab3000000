@@ -1,14 +1,4 @@
-<!-- Banner -->
-<!--<section id="banner">-->
 
-<!--	<div class="inner">-->
-<!--		<img src="http://codecloud.cdn.speedyrails.net/sites/57fe415b6e6f6463050d0000/image/png/1447442105000/mf_icon.png" alt="MF icon" style="width:150px">-->
-<!--		<h2>We shape cutting-edge ideas <br>into software perfection</h2>-->
-<!--		<ul class="actions">-->
-<!--			<li><a href="#one" class="button wide scrolly">Discover</a></li>-->
-<!--		</ul>-->
-<!--	</div>-->
-<!--</section>-->
 <section id="app_dev" class="wrapper">
 <a name="mobile_app"></a>
 <article class="icon fa-mobile-phone">
