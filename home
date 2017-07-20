@@ -34,7 +34,7 @@
 					<article class="icon fa-database">
 						<h3>Enterpise CMS & DAPPs (Ethereum)</h3>
 						<p>Our team has deep experience with backend and API development. From Ruby on Rails, Node.js, Ethereum Dapps and much more our platform have been deployed to fortune 500 organizations accross North America.</p>
-						<a class="button small" style="cursor: pointer;" href="development.html">Learn More</a>
+						<a class="button small" style="cursor: pointer;" href="/development#cms">Learn More</a>
 					</article>
 					<article class="icon fa-eye">
 						<h3>Artificial Intelligence & Machine Learning</h3>
