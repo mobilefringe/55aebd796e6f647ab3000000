@@ -8,6 +8,11 @@
 </section>
 <section id="web_dev" class="wrapper">
 <a name="web_development"></a>
+<article class="icon fa-desktop">
+    <h3>Web Development</h3>
+    <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
+    <a class="button  small" style="cursor: pointer;">Learn More</a>
+  </article>
 </section>
 <section id="cms_dev" class="wrapper">
 <a name="cms"></a>
@@ -18,11 +23,7 @@
 <section id="development" class="wrapper">
 <div class="features">
   
-  <article class="icon fa-desktop">
-    <h3>Web Development</h3>
-    <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
-    <a class="button  small" style="cursor: pointer;">Learn More</a>
-  </article>
+  
   <article class="icon fa-database">
     <h3>Enterrpise & CMS</h3>
     <p>In addition to building compelling mobile and desktop experiences, our team has deep experience with backend development. From Ruby on Rails, Node.js and much more our back end delivery has been deployed to fortune 500 organizations accross North America.</p>
