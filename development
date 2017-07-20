@@ -16,6 +16,11 @@
 </section>
 <section id="cms_dev" class="wrapper">
 <a name="cms"></a>
+<article class="icon fa-database">
+    <h3>Enterrpise & CMS</h3>
+    <p>In addition to building compelling mobile and desktop experiences, our team has deep experience with backend development. From Ruby on Rails, Node.js and much more our back end delivery has been deployed to fortune 500 organizations accross North America.</p>
+    <a class="button small" style="cursor: pointer;">Learn More</a>
+  </article>
 </section>
 <section id="ai_dev" class="wrapper">
 <a name="ai"></a>
@@ -24,11 +29,7 @@
 <div class="features">
   
   
-  <article class="icon fa-database">
-    <h3>Enterrpise & CMS</h3>
-    <p>In addition to building compelling mobile and desktop experiences, our team has deep experience with backend development. From Ruby on Rails, Node.js and much more our back end delivery has been deployed to fortune 500 organizations accross North America.</p>
-    <a class="button small" style="cursor: pointer;">Learn More</a>
-  </article>
+  
   <article class="icon fa-users">
     <h3>Investments & Capital</h3>
     <p>Our experience and track record has given us great opportunities to invest and partner with startups and small businesses that are focused on excelling in key growth areas. We’re actively seeking young businesses in the tech, virtual reality, artificial intelligence, banking, finance and real estate industries.
