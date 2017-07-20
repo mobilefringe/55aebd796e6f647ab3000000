@@ -4920,6 +4920,8 @@
         border-left: solid 1px rgba(93, 201, 221,0.75);
     }
 }
+.logo:hover a{
+}
 
 #header > .logo > a:hover  {
     color:#5ac3d6;
