@@ -4916,7 +4916,7 @@
 }
 .logo:hover  {
     color:#5ac3d6;
-    span{
+    span {
         border-left: solid 1px rgba(93, 201, 221,0.75);
     }
 }
@@ -4924,6 +4924,9 @@
 #header > .logo > a:hover  {
     color:#5ac3d6;
     border-left: solid 1px rgba(93, 201, 221,0.75);
+    span {
+        border-left: solid 1px rgba(93, 201, 221,0.75);
+    }
 }
 #header > .logo > span:hover {
     border-left: solid 1px rgba(93, 201, 221,0.75);
