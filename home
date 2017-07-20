@@ -24,7 +24,7 @@
 					<article class="icon fa-mobile-phone">
 						<h3>Mobile App Development</h3>
 						<p>Our team began building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. We design our apps using Sketch to bring designs to life before development even begins.</p>
-						<a class="button small" style="cursor: pointer;" href="development.html">Learn More</a>
+						<a class="button small" style="cursor: pointer;" href="/development#mobile_app">Learn More</a>
 					</article>
 					<article class="icon fa-desktop">
 						<h3>Web Development</h3>
