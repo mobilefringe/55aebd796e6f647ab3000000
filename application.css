@@ -4917,8 +4917,8 @@
     color:#5ac3d6;
 }
 
-#header > .logo > a {
-    font-size: 1.25em;
+#header > .logo > a:hover  {
+    color:#5ac3d6;
 }
 
 
