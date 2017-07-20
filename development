@@ -1,6 +1,6 @@
 <section id="app_dev" class="wrapper">
 <a name="mobile_app"></a>
-article class="icon fa-mobile-phone">
+<article class="icon fa-mobile-phone">
     <h3>Mobile Development</h3>
     <p>We started building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. Mobile apps have come along way and we've stayed on the cutting edge. If you need to take your business mobile we can help you every step of the way.</p>
     <a class="button small" style="cursor: pointer;">Learn More</a>
@@ -17,7 +17,7 @@ article class="icon fa-mobile-phone">
 </section>
 <section id="development" class="wrapper">
 <div class="features">
-  <
+  
   <article class="icon fa-desktop">
     <h3>Web Development</h3>
     <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
