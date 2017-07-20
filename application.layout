@@ -60,10 +60,10 @@
 									<li>
 										<a href="#">Development</a>
 										<ul>
-											<li><a href="#">Mobile Apps</a></li>
-											<li><a href="#">Websites</a></li>
-											<li><a href="#">Enterprise Platforms</a></li>
-											<li><a href="#">Artificial Intelligence</a></li>
+											<li><a href="/development#">Mobile Apps</a></li>
+											<li><a href="/development#">Websites</a></li>
+											<li><a href="/development#cms">Enterprise Platforms</a></li>
+											<li><a href="/development#ai">Artificial Intelligence</a></li>
 										</ul>
 									</li>
 								</ul>
