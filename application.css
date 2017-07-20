@@ -4913,7 +4913,7 @@
     background-size:contain;
     /*no-repeat scroll 0% 0% transparent;*/
 }
-.logo:hover, .logo a:hover {
+.logo:hover, .logo > a:hover {
     color:#5ac3d6;
 }
 
