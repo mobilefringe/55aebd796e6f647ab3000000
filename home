@@ -1,5 +1,5 @@
 <!-- One -->
-<section id="one" class="wrapper page_content">
+<section id="one" class="wrapper">
 	<div class="inner">
 		<div class=" style1 centered reversed">
 
@@ -37,7 +37,7 @@
 </section>
 
 <!-- Two -->
-<section id="two" class="wrapper style1 special page_content">
+<section id="two" class="wrapper style1 special">
 	<div class="inner">
 		<h2>Our development track record...</h2>
 		<div class="stats">
@@ -68,7 +68,7 @@
     <hr>
 </section>
 <!-- Three -->
-<section id="three" class="wrapper page_content">
+<section id="three" class="wrapper">
 	<div class="inner">
 		<ul class="tabs">
 			<li>
@@ -113,7 +113,7 @@
 		</ul>
 	</div>
 </section>
-<section id="four" class="wrapper  special page_content" style="padding-top:0px">
+<section id="four" class="wrapper  special" style="padding-top:0px">
 	<h2>Our Great Clients...</h2>
 	<div class="inner">
 		<div class="stats logos">
