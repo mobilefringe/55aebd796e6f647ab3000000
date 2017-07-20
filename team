@@ -14,11 +14,16 @@
 </section>
 <section id="web_dev" class="wrapper page_content">
 <a name="approach"></a>
-<article class="icon fa-desktop">
-    <h3>Web Development</h3>
-    <p>We consider ourselves masters of web development using HTML5, CSS3 and Javascript. We started out in mobile development we design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. Talk to us about taking your site mobile.</p>
-    <a class="button  small" style="cursor: pointer;">Learn More</a>
-  </article>
+<h3>Our Approach</h3>
+				<div class="split reversed">
+					<div class="content">
+						<h2>Small, Agile, Highly Skilled Teams</h2>
+						<p>Our approach is simple....less is more. We are fanatical believers that the best products come from small, agile, highly skilled teams. Our engineers are deeply inloved in the concept and requirements phase bringing the full vision of projects to life. We also believe strongly in selecting the right tech stack for a project. From node.js, Ruby on Rails, native apps vs mobile web...we have the experience to select the right tools for the job.</p>
+						<ul class="actions">
+							<li><a href="#" class="button small">Learn More</a></li>
+						</ul>
+					</div>
+					<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499879902000/agile_feedback.png" alt="" /></div>
 </section>
 <section id="cms_dev" class="wrapper page_content">
 <a name="members"></a>
