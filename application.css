@@ -4909,7 +4909,7 @@
 }
 
 .mf_logo:hover {
-    background:url('//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1500583203000/MF logo-02.png');
+    background:url('//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1500583203000/MF logo-02.png') no-repeat;
     background-size:contain;
     /*no-repeat scroll 0% 0% transparent;*/
 }
