@@ -68,7 +68,7 @@
     <hr>
 </section>
 <!-- Three -->
-<section id="three" class="wrapper">
+<section id="three" class="wrapper page_content">
 	<div class="inner">
 		<ul class="tabs">
 			<li>
@@ -113,7 +113,7 @@
 		</ul>
 	</div>
 </section>
-<section id="four" class="wrapper  special" style="padding-top:0px">
+<section id="four" class="wrapper  special page_content" style="padding-top:0px">
 	<h2>Our Great Clients...</h2>
 	<div class="inner">
 		<div class="stats logos">
