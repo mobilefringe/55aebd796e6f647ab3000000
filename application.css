@@ -4901,7 +4901,7 @@
 }
 .header-inside a.logo {
     width:200px;
-    height:80px;
+    /*height:80px;*/
     float:left;
     background: url('//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1447442105000/mf_icon.pngg') no-repeat scroll 0% 0% transparent;
 }
