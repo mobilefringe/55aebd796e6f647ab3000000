@@ -1,17 +1,11 @@
 
 <section id="app_dev" class="wrapper page_content">
 <a name="mobile_app"></a>
-<h3>Our Skills</h3>
-				<div class="split reversed">
-					<div class="content">
-						<h2>The best full stack developers in the business</h2>
-						<p>The term "Full Stack" gets thrown around a lot, but for us it means something very important...it means picking the right tools for the right job. Our team has extensive knowledge and expeirience in software development and selecting the right technology stack for a project is as important as how the code itself is written. We pride ourselves in staying up to speed on every advancement in our industry by learning new tools, software languages and frameworks in building great software. </p>
-						<ul class="actions">
-							<li><a href="#" class="button small">Learn More</a></li>
-						</ul>
-					</div>
-					<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499879529000/tech_stack.png" alt="" /></div>
-				</div>
+<article class="icon fa-mobile-phone">
+    <h3>Mobile Development</h3>
+    <p>We started building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. Mobile apps have come along way and we've stayed on the cutting edge. If you need to take your business mobile we can help you every step of the way.</p>
+    <a class="button small" style="cursor: pointer;">Learn More</a>
+  </article>
 </section>
 <section id="web_dev" class="wrapper page_content">
 <a name="web_development"></a>
