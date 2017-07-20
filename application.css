@@ -4900,7 +4900,7 @@
 .mf_logo {
     width:150px;
     height:80px;
-    background: url('//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1447442105000/mf_icon.png');
+    background: url('//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1447442105000/mf_icon.png') no-repeat;
     background-size:contain;
     /*no-repeat scroll 0% 0% transparent;*/
 }
