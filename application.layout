@@ -84,7 +84,7 @@
             		</ul>
             	</div>
             </section>
-			<div id="page_content">
+			<div >
 			    {{yield}}
 			</div>
 
