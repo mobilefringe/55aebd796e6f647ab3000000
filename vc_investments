@@ -1,4 +1,5 @@
-<section>
+<div class="split">
+			<section>
 				<h2>Investments & VC Funding</h2>
 				<p>Our experience and track record has given us great opportunities to invest and partner with startups and small businesses that are focused on excelling in key growth areas. We’re actively seeking young businesses in the tech, virtual reality, artificial intelligence, block-chain DAPPS (ethereum), banking, finance and real estate industries.
 We focus on growth planning, strategic investments, advisory boards, angel investing and capital injections.</p>
@@ -10,3 +11,4 @@ We focus on growth planning, strategic investments, advisory boards, angel inves
 				<span class="image fit"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1499880878000/vc.jpg" alt="" /></span>
 
 			</section>
+		</div>
