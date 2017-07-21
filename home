@@ -132,7 +132,7 @@
 		</div>
 	</div>
 	<ul class="actions">
-		<li><a href="/clients" class="button small">See More</a></li>
+		<li><a href="/client_list" class="button small">See More</a></li>
 	</ul>
 </section>
 
