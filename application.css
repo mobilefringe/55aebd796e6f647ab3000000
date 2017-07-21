@@ -4915,7 +4915,7 @@
     /*no-repeat scroll 0% 0% transparent;*/
 }
 
-#header > .logo > a:hover  {
+.alt > .logo > a:hover  {
     color:#5ac3d6;
 }
 
