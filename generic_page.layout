@@ -87,7 +87,7 @@
 
 	    <div>
 			    {{yield}}
-			</div>
+		</div>
 
 
 		<!-- Footer -->
