@@ -13,18 +13,3 @@
 
 				</div>
 			</section>
-<!--<div class="text-center">-->
-<!--    <h1 class="entry-title">OUR AMAZING CLIENTS</h1>-->
-<!--    <hr class="title-break">-->
-<!--</div>-->
-<!--<ul class="og-grid" id="og-grid">-->
-<!--    <script id="store_list_template" type="x-tmpl-mustache/text">-->
-<!--        <li class="animated fadeIn" data-effect="fadeIn" >-->
-<!--            <a href="{{website}}" target="_blank">-->
-<!--                <div class="og-overlay"></div>-->
-<!--                <span class="og-title">{{name}}</span>-->
-<!--                <img src="{{store_image}}" alt="client logo" style="width: 300px;">-->
-<!--            </a>-->
-<!--        </li>-->
-<!--    </script>-->
-<!--</ul>-->
