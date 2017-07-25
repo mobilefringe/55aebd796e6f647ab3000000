@@ -50,7 +50,7 @@
 	<body id="top">
 
 		<!-- Header -->
-			<header id="header" class="alt">
+			<header id="header" class="">
 
 				<!-- Logo -->
 					<div class="logo">
