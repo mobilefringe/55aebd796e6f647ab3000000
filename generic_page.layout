@@ -13,6 +13,40 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<meta property="og:title" content="{{meta_title}}">
+        <meta property="og:description" content="{{meta_description}}">
+        <meta property="og:image" content="{{meta_image}}">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{meta_description}}">
+        <meta name="keywords" content="{{meta_keywords}}">
+        <title>{{meta_title}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="blog" />
+        <meta property="og:site_name" content="Mobile Fringe" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@mobilefringe" />
+        <meta name="twitter:title" content="{{meta_title}}" />
+        <meta name="twitter:description" content="{{meta_description}}" />
+        <meta name="twitter:image" content="{{meta_image}}" /> 
+		<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/html5shiv.js"></script><![endif]-->
+		<link rel="shortcut icon" href="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/>  
+		<link rel='stylesheet' href="/application.css"/>
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		
+		<!-- Scripts -->
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.min.js"></script>
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.dropotron.min.js"></script>
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.scrollex.min copy.js"></script>
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.scrolly.min copy.js"></script>
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.selectorr.min.js"></script>
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/skel.min.js"></script>
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/util.js"></script>
+		<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/respond.min.js"></script><![endif]-->
+		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/main.js"></script>
+		<script src="/helpers.js"></script>
 	</head>
 	<body id="top">
 
