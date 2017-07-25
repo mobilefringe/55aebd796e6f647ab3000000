@@ -85,7 +85,7 @@
 
 			</header>
 
-	    <div style="margin-top: 65px;">
+	    <div style="margin-top: 10%;">
 			    {{yield}}
 		</div>
 
