@@ -85,7 +85,10 @@
 
 			</header>
 
-	
+	    <div>
+			    {{yield}}
+			</div>
+
 
 		<!-- Footer -->
 			<footer id="footer">
