@@ -24,7 +24,7 @@ $(document).ready(function(){
         });
     });
     
-     SyntaxHighlighter.all();
+    //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
     $('#carousel').flexslider({
