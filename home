@@ -66,11 +66,10 @@
     </center>
     <div class="flexslider trim_screen" style="margin-bottom:0px;">
         <ul class="slides" id = "home_banner" >     
-                <li class="" style="width: 100%; float: left; display: block;">
-                    <a href=""  onclick="">
-                        <img alt="banner image" src="{{image_url}}" />
-                    </a>
-                </li>
+                <!--<li class="" style="width: 100%; float: left; display: block;">-->
+                <!--    <a href=""  onclick="">-->
+                <!--    </a>-->
+                <!--</li>-->
                
         </ul>
     </div>
