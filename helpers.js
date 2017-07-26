@@ -27,31 +27,11 @@ $(document).ready(function(){
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
-    $('#carousel').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: true,
-    slideshow: true,
-    itemWidth: 210,
-    itemMargin: 5,
-    asNavFor: '#slider1'
-    });
-    
-    $('#slider1').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: true,
-    slideshow: true,
-    sync: "#carousel",
-    start: function(slider){
-      $('body').removeClass('loading');
-    }
-    });
-    
-     	$('.ex1').zoom({ on:'click' });
-    $('#zoom1').zoom({ on:'click' });
-    	//$('#ex2').zoom({ on:'grab' });
-    	//$('.slides').zoom({ on:'click' });			 
-    	//$('#ex4').zoom({ on:'toggle' });
-
+    $('.flexslider').flexslider({
+            animation: "slide",
+            controlNav: false,
+            directionNav: false,        
+            prevText: "Previous",
+            nextText: "Next"
+        });
 });
