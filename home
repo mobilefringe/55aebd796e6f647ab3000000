@@ -64,7 +64,46 @@
     <center style="padding:30px">
         <a href="/our_work" >Our Work - TBD </a>
     </center>
-    
+    <div class="container">
+  <section class="slider">
+    <div id="slider1" class="flexslider">
+      <ul class="slides">
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_cheesecake_brownie.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_donut.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_caramel.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_cheesecake_brownie.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_donut.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_caramel.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_cheesecake_brownie.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_donut.jpg" /> </span> </li>
+        <li> <span class="ex1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_caramel.jpg" /> </span> </li>
+      </ul>
+    </div>
+    <div id="carousel" class="flexslider">
+      <ul class="slides">
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_cheesecake_brownie.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_donut.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_caramel.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_cheesecake_brownie.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_donut.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_caramel.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_cheesecake_brownie.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_donut.jpg" /> </li>
+        <li> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_caramel.jpg" /> </li>
+      </ul>
+    </div>
+  </section>
+  <div class="zoom-img-cont"> 
+    <span id="zoom1"> <img src="https://flexslider.woothemes.com/images/kitchen_adventurer_lemon.jpg" /> </span> 
+  </div>
+</div>
+
     <hr>
 </section>
 <!-- Three -->
