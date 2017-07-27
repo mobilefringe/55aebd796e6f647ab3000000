@@ -4981,12 +4981,7 @@
   float: right;
   margin-bottom: 20px;
 
-  li{
-    margin-top: 20px;
-    position: relative;
-    float: left;
-
-    margin-right: 20px;
+  
 
     &.prev{
       display: block;
@@ -5003,7 +4998,13 @@
     }
   }
 }
-.paginator
+.paginator li{
+    margin-top: 20px;
+    position: relative;
+    float: left;
+
+    margin-right: 20px;
+}
 /*.flex-active-slide {*/
 /*     height: 350px;*/
 /*}*/
