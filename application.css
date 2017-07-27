@@ -4964,7 +4964,7 @@
     background-color: rgba(90, 195, 214, 0.75);
 }
 .slick-slide img {
-     
+    z-index:-1;
 }
 .slick-center{
     box-shadow: 10px 10px 5px #888888;
