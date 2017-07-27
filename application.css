@@ -4935,7 +4935,7 @@
     box-shadow: 10px 10px 5px #888888;
 }
 .flex-active-slide {
-    
+     height: 350px;
 }
 /*.container-cs{ width:1024px; height:800px; margin:10px auto;}*/
 /*.zoom-img-cont { display:block; margin:20px; padding:10px; background:#f1f1f1; text-align:center;}*/
