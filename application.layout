@@ -57,7 +57,7 @@
 						<ul>
 							<li><a href="/home">Home</a></li>
 							<li>
-							    <a href="#one" class="scrolly icon fa-angle-down">Development</a>
+							    <a href="/#one" class="scrolly icon fa-angle-down">Development</a>
 								<ul>
 									<li><a href="/development#mobile_app">Mobile App Development</a></li>
 									<li><a href="/development#web_development">Web Development</a></li>
@@ -66,12 +66,12 @@
 								</ul>
 							</li>
 							<li>
-							    <a href="#our_work" class="scrolly icon fa-angle-down">Our Work</a>
+							    <a href="/#our_work" class="scrolly icon fa-angle-down">Our Work</a>
 							    <ul>
 									<li><a href="/our_work">View Portfolio</a></li>
 								</ul>
 							</li>
-							<li><a href="#vc_funding" class="scrolly">VC Funding</a></li>
+							<li><a href="/#vc_funding" class="scrolly">VC Funding</a></li>
 							<li>
 								<a href="#" class="icon fa-angle-down">More</a>
 								<ul>
