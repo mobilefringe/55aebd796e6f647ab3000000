@@ -28,10 +28,10 @@ $(document).ready(function(){
 });
 $(window).load(function(){
     $('.flexslider').flexslider({
-            animation: "slide",
-            controlNav: false,
-            directionNav: false,        
-            prevText: "Previous",
-            nextText: "Next"
-        });
+        animation: "slide",
+        controlNav: false,
+        directionNav: false,        
+        prevText: "Previous",
+        nextText: "Next"
+    });
 });
