@@ -104,13 +104,6 @@
         </div>
         <div class="next"></div>
     </div>
-    <div class="paginator text-color text-center">
-    <h6>VER MAS LANZAMIENTOS</h6>
-    <ul>
-        <li class="prev"></li>
-        <li class="next"></li>
-    </ul>
-</div>
     <hr>
 </section>
 <!-- Three -->
