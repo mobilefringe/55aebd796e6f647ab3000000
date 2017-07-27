@@ -64,7 +64,7 @@
     <center style="padding:30px">
         <a href="/our_work" >Our Work - TBD </a>
     </center>
-    <div class="center trim_screen" style="margin-bottom:0px;">
+    <div class="center" style="margin-bottom:0px;">
         <ul class="center" id = "home_banner" >     
                 <!--<li class="" style="width: 100%; float: left; display: block;">-->
                 <!--    <a href=""  onclick="">-->
