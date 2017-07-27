@@ -4980,17 +4980,6 @@
   position: relative;
   float: right;
   margin-bottom: 20px;
-
-  
-
-    
-    &.next{
-      display: block;
-      height: 20px;
-      width: 20px;
-      background: url('../img/next.png') no-repeat;;
-    }
-  }
 }
 .paginator li{
     margin-top: 20px;
