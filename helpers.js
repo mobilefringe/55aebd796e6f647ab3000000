@@ -23,13 +23,6 @@ $(document).ready(function(){
             }
         });
     });
-    $('.flexslider').flexslider({
-        animation: "slide",
-        controlNav: false,
-        directionNav: false,        
-        prevText: "Previous",
-        nextText: "Next"
-    });
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
