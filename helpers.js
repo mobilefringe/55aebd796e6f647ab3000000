@@ -38,8 +38,8 @@ $(window).load(function(){
     $('.center').slick({
         centerMode: true,
         centerPadding: '60px',
-        slidesToShow: 3
-        //,
+        slidesToShow: 3,
+         autoplay: true,
         // responsive: [
         // {
         //   breakpoint: 768,
