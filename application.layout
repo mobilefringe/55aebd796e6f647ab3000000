@@ -60,9 +60,9 @@
 							    <a href="#one" class="scrolly icon fa-angle-down">Development</a>
 								<ul>
 									<li><a href="/development#mobile_app">Mobile Apps</a></li>
-											<li><a href="/development#web_development">Websites</a></li>
-											<li><a href="/development#cms">Enterprise Platforms</a></li>
-											<li><a href="/development#ai">Artificial Intelligence</a></li>
+									<li><a href="/development#web_development">Websites</a></li>
+									<li><a href="/development#cms">Enterprise Platforms</a></li>
+									<li><a href="/development#ai">Artificial Intelligence</a></li>
 									<li>
 										<a href="/development">Development</a>
 										<ul>
