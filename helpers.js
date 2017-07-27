@@ -42,7 +42,7 @@ $(window).load(function(){
         autoplay: true,
         prevArrow: $('.prev'),
         nextArrow: $('.next'),
-         arrows:true
+        arrows:true
          
         // responsive: [
         // {
