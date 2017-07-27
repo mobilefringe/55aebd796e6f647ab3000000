@@ -4963,7 +4963,7 @@
     height:300px;
     background-color: rgba(161, 168, 169, 0.75);
     box-shadow: 10px 10px 5px #888888;
-     autoplay: true,
+        margin-top: 65px;
 }
 .slick-slide img {
     z-index:-1;
