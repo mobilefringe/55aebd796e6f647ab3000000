@@ -4941,7 +4941,8 @@
     
 }
 .slides {
-    
+    height: 400px;
+    width: 100%!important;
 }
 .flexslider_li {
     width: 100%; 
