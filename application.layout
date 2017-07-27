@@ -56,7 +56,23 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="/home">Home</a></li>
-							<li><a href="#one" class="scrolly">Development</a></li>
+							<li><a href="#one" class="icon fa-angle-down">Development</a>
+							    <a href="#" class="icon fa-angle-down">More</a>
+								<ul>
+									<li><a href="/team">Our Team</a></li>
+									<li><a href="#">Contact Us</a></li>
+									<li>
+										<a href="/development">Development</a>
+										<ul>
+											<li><a href="/development#mobile_app">Mobile Apps</a></li>
+											<li><a href="/development#web_development">Websites</a></li>
+											<li><a href="/development#cms">Enterprise Platforms</a></li>
+											<li><a href="/development#ai">Artificial Intelligence</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							
 							<li><a href="#vc_funding" class="scrolly">VC Funding</a></li>
 							<li>
 								<a href="#" class="icon fa-angle-down">More</a>
