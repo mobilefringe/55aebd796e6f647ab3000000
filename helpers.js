@@ -40,7 +40,10 @@ $(window).load(function(){
         centerPadding: '60px',
         slidesToShow: 3,
          autoplay: true,
+         prevArrow: $('.prev'),
+      nextArrow: $('.next'),
          arrows:true
+         
         // responsive: [
         // {
         //   breakpoint: 768,
