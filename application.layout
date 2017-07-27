@@ -78,7 +78,7 @@
 									<li><a href="/team">Our Team</a></li>
 									<li><a href="/team#approach">Our Approach</a></li>
 									<li><a href="/clients">Amazing Clients</a></li>
-									<li><a href="#">Contact Us</a></li>
+									<li><a href="#contact_us">Contact Us</a></li>
 								</ul>
 							</li>
 
