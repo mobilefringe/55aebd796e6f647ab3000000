@@ -30,7 +30,8 @@ $(window).load(function(){
         animation: "slide",
         controlNav: false,
         directionNav: false,        
-        prevText: "Previous",
-        nextText: "Next"
+        prevText: "",
+        nextText: "",
+        pauseOnHover: true
     });
 });
