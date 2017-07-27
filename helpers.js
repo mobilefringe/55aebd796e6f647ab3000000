@@ -39,8 +39,8 @@ $(window).load(function(){
         centerMode: true,
         centerPadding: '60px',
         slidesToShow: 3,
-         autoplay: true,
-         prevArrow: $('.prev'),
+        autoplay: true,
+        prevArrow: $('.prev'),
         nextArrow: $('.next'),
          arrows:true
          
