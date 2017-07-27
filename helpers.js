@@ -39,7 +39,8 @@ $(window).load(function(){
         centerMode: true,
         centerPadding: '60px',
         slidesToShow: 3,
-         autoplay: true
+         autoplay: true,
+         arrows:true
         // responsive: [
         // {
         //   breakpoint: 768,
