@@ -58,6 +58,6 @@ $(window).load(function(){
         //     slidesToShow: 1
         //   }
         // }
-        ]
+        // ]
     });
 });
