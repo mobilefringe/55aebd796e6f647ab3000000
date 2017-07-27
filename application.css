@@ -4965,7 +4965,7 @@
 }
 .slick-slide img {
     z-index:-1;
-        position: relative;
+    position: relative;
 }
 .slick-center{
     box-shadow: 10px 10px 5px #888888;
