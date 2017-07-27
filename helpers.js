@@ -33,6 +33,6 @@ $(window).load(function(){
         prevText: "",
         nextText: "",
         pauseOnHover: true,
-        animationLoop: true,
+        animationLoop: true
     });
 });
