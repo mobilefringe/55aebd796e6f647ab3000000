@@ -4958,7 +4958,7 @@
     margin: 10px 40px;
 }
 .slick-slide {
-    
+    overflow:hidden;
 }
 /*.flex-active-slide {*/
 /*     height: 350px;*/
