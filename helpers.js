@@ -32,6 +32,7 @@ $(window).load(function(){
         directionNav: false,        
         prevText: "",
         nextText: "",
-        pauseOnHover: true
+        pauseOnHover: true,
+        animationLoop: true,
     });
 });
