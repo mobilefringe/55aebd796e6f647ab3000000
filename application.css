@@ -4928,6 +4928,9 @@
 .flexslider_li {
     width: 100%; float: left; display: block;
 }
+.flex-active-slide {
+    
+}
 /*.container-cs{ width:1024px; height:800px; margin:10px auto;}*/
 /*.zoom-img-cont { display:block; margin:20px; padding:10px; background:#f1f1f1; text-align:center;}*/
 /*.zoom-img-cont span{ display:block;}*/
