@@ -66,7 +66,7 @@
 								</ul>
 							</li>
 							<li>
-							    <a href="/#our_work" class="scrolly icon fa-angle-down">Our Work</a>
+							    <a href="/home#our_work" class="scrolly icon fa-angle-down">Our Work</a>
 							    <ul>
 									<li><a href="/our_work">View Portfolio</a></li>
 								</ul>
