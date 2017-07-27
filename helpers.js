@@ -41,7 +41,7 @@ $(window).load(function(){
         slidesToShow: 3,
          autoplay: true,
          prevArrow: $('.prev'),
-      nextArrow: $('.next'),
+        nextArrow: $('.next'),
          arrows:true
          
         // responsive: [
