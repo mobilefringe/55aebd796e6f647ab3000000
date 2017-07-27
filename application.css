@@ -4925,6 +4925,9 @@
 .flexslider {max-width: 800px; width: 800px; margin: 0 auto}
 .content {background: #f2f2f2; max-width: 800px; display: block; margin: 0 auto}
 .flex-viewport {overflow: visible !important}
+.flexslider_li {
+    width: 100%; float: left; display: block;
+}
 /*.container-cs{ width:1024px; height:800px; margin:10px auto;}*/
 /*.zoom-img-cont { display:block; margin:20px; padding:10px; background:#f1f1f1; text-align:center;}*/
 /*.zoom-img-cont span{ display:block;}*/
