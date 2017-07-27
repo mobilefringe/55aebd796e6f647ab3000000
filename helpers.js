@@ -26,15 +26,7 @@ $(document).ready(function(){
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
-    // $('.flexslider').flexslider({
-    //     animation: "slide",
-    //     controlNav: false,
-    //     directionNav: false,        
-    //     prevText: "",
-    //     nextText: "",
-    //     pauseOnHover: true,
-    //     animationLoop: true
-    // });
+
     $('.center').slick({
         centerMode: true,
         centerPadding: '60px',
