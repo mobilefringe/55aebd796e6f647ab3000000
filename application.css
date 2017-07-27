@@ -4922,9 +4922,25 @@
 /*.discover:hover {*/
 /*    background-color: rgba(90, 195, 214, 0.75);*/
 /*}*/
-.flexslider {max-width:  800px; width: 800px; margin: 0 auto}
-.content {background: #f2f2f2; max-width: 800px; display: block; margin: 0 auto}
-.flex-viewport {overflow: visible !important}
+.flexslider {
+    max-width:  800px;
+    width: 800px;
+    
+    height: 400px;
+    margin: 0 auto
+    
+}
+.content {
+    background: #f2f2f2;
+    max-width: 800px;
+    display: block;
+    margin: 0 auto
+    
+}
+.flex-viewport {
+    overflow: visible !important
+    
+}
 .flexslider_li {
     width: 100%; 
     float: left; 
