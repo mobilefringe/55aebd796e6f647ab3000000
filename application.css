@@ -4961,10 +4961,6 @@
     overflow:hidden;
     margin: 40px 20px;
     height:300px;
-    img {
-       
-    }
-    
 }
 .slick-slide img {
      background-color: rgba(90, 195, 214, 0.75);
