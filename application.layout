@@ -42,9 +42,9 @@
 		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/main.js"></script>
 		<script src="/helpers.js"></script>
 		
-		<!--MallMaverick v1.0-->
-        <script src="//mallmaverick.codecloudapp.com/mallmaverick.js?v=0.3"></script>
-        <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
+		<!--MallMaverick SDK-->
+    <script src="//mallmaverick.codecloudapp.com/mallmaverick_v3.js"></script>
+    <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
         <script>
             setEndPoint('//mobilefringe.mallmaverick.com/api/v2/mobilefringe/all.json');
             sessionStorage.setItem('primary_locale', 'en-CA');
