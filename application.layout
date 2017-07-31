@@ -51,9 +51,9 @@
             sessionStorage.setItem('secondary_locale', 'fr-CA');
         </script>
         <!-- Site data -->
-        <script>
-            setEndPoint('https://twinpine.mallmaverick.com/api/v3/twinpine/all.json');
-        </script>
+        <!--<script>-->
+        <!--    setEndPoint('https://twinpine.mallmaverick.com/api/v3/twinpine/all.json');-->
+        <!--</script>-->
         <link rel='shortlink' href='//www.mobilefringe.com/' />
         
 	</head>
