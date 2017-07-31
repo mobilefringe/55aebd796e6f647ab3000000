@@ -41,18 +41,13 @@
 		<script src="/helpers.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.min.js"></script>
+        
 		<!--MallMaverick SDK-->
         <script src="//mallmaverick.codecloudapp.com/mallmaverick_v3.1.js"></script>
         <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
         <script>
-            setEndPoint('http://mobilefringe.mallmaverick.com/api/v3/mobilefringe/all.json');
-            // sessionStorage.setItem('primary_locale', 'en-CA');
-            // sessionStorage.setItem('secondary_locale', 'fr-CA');
+            setEndPoint('//mobilefringe.mallmaverick.com/api/v3/mobilefringe/all.json');
         </script>
-        <!-- Site data -->
-        <!--<script>-->
-        <!--    setEndPoint('https://twinpine.mallmaverick.com/api/v3/twinpine/all.json');-->
-        <!--</script>-->
         <!--<link rel='shortlink' href='//www.mobilefringe.com/' />-->
         
 	</head>
