@@ -4944,15 +4944,15 @@
 /*    height: 400px;*/
 /*    width: 100%!important;*/
 /*}*/
-.flexslider_li {
-    width: 100%; 
-    float: left; 
-    display: block;
-    height: 300px;
-    margin: 30px;
-    overflow: hidden;
-    box-shadow: 10px 10px 5px #888888;
-}
+/*.flexslider_li {*/
+/*    width: 100%; */
+/*    float: left; */
+/*    display: block;*/
+/*    height: 300px;*/
+/*    margin: 30px;*/
+/*    overflow: hidden;*/
+/*    box-shadow: 10px 10px 5px #888888;*/
+/*}*/
 .slick-slider {
     height: 350px;
     margin: 10px 5%;
