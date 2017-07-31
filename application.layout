@@ -45,10 +45,9 @@
 		<!--MallMaverick SDK-->
         <script src="//mallmaverick.codecloudapp.com/mallmaverick_v3.js"></script>
         <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
+        <!-- Site data -->
         <script>
-            setEndPoint('//mobilefringe.mallmaverick.com/api/v2/mobilefringe/all.json');
-            sessionStorage.setItem('primary_locale', 'en-CA');
-            sessionStorage.setItem('secondary_locale', 'fr-CA');
+            setEndPoint('https://twinpine.mallmaverick.com/api/v3/twinpine/all.json');
         </script>
         <link rel='shortlink' href='//www.mobilefringe.com/' />
         
