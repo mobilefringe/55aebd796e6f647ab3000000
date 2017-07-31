@@ -4971,7 +4971,7 @@
 }
 .slick-center{
     box-shadow: 0px 0px 10px 8px #888888;
-    height:350px;
+    /*height:350px;*/
     background-color: initial;
     margin-top: 40px;
 }
