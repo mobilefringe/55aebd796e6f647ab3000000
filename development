@@ -1,3 +1,35 @@
+<section id="one" class="wrapper">
+	<div class="inner">
+		<div class="split style1 centered reversed">
+			<section>
+				<span class="image fit portrait"><img src="images/pic02.jpg" alt="" /></span>
+			</section>
+			<section>
+				<h2>Adipiscing ornare risus morbi est est blandi magna vel euismod tempus</h2>
+				<div class="features">
+					<article class="icon fa-diamond">
+						<h3>Sed veroeros</h3>
+						<p>Lorem ipsum dolor sit amet nulla etiam feugiat sed adipiscing.</p>
+					</article>
+					<article class="icon fa-file-o">
+						<h3>Magna etiam</h3>
+						<p>Lorem ipsum dolor sit amet nulla etiam feugiat sed adipiscing.</p>
+					</article>
+					<article class="icon fa-clone">
+						<h3>Nulla consequat</h3>
+						<p>Lorem ipsum dolor sit amet nulla etiam feugiat sed adipiscing.</p>
+					</article>
+					<article class="icon fa-envelope-o">
+						<h3>Euismod morbi</h3>
+						<p>Lorem ipsum dolor sit amet nulla etiam feugiat sed adipiscing.</p>
+					</article>
+				</div>
+			</section>
+		</div>
+	</div>
+</section>
+
+
 <section id="app_dev" class="wrapper page_content">
     <a name="mobile_app"></a>
     <article class="icon fa-mobile-phone">
