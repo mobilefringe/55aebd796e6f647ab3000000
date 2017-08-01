@@ -8,10 +8,8 @@
 			<section>
 				<h2>Mobile Development</h2>
 				<div class="features">
-					<article class="icon fa-diamond">
-						<h3>Jamie TBD </h3>
-						<p>Lorem ipsum dolor sit amet nulla etiam feugiat sed adipiscing.</p>
-					</article>
+					
+						<p>Jamie TBD </p>
 					<!--<article class="icon fa-file-o">-->
 					<!--	<h3>Magna etiam</h3>-->
 					<!--	<p>Lorem ipsum dolor sit amet nulla etiam feugiat sed adipiscing.</p>-->
