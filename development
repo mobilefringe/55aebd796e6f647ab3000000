@@ -1,6 +1,7 @@
 <section id="app_dev" class="wrapper page_content">
     <a name="mobile_app"></a>
     <article class="icon fa-mobile-phone">
+        <i class="icon fa-mobile-phone"></i>
         <h3>Mobile Development</h3>
         <p>We started building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. Mobile apps have come along way and we've stayed on the cutting edge. If you need to take your business mobile we can help you every step of the way.</p>
         <a class="button small" style="cursor: pointer;">Learn More</a>
