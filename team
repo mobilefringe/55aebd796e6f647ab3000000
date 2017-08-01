@@ -49,45 +49,45 @@
 </section>
 
 
-<section id="app_dev" class="wrapper page_content">
-    <a name="skills"></a>
-    <h3>Our Skills</h3>
-	<div class="split reversed">
-		<div class="content">
-			<h2>The best full stack developers in the business</h2>
-			<p>The term "Full Stack" gets thrown around a lot, but for us it means something very important...it means picking the right tools for the right job. Our team has extensive knowledge and expeirience in software development and selecting the right technology stack for a project is as important as how the code itself is written. We pride ourselves in staying up to speed on every advancement in our industry by learning new tools, software languages and frameworks in building great software. </p>
-			<ul class="actions">
-				<li><a href="#" class="button small">Learn More</a></li>
-			</ul>
-		</div>
-		<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499879529000/tech_stack.png" alt="" /></div>
-	</div>
-</section>
-<section id="web_dev" class="wrapper page_content">
-    <a name="approach"></a>
-    <h3>Our Approach</h3>
-	<div class="split reversed">
-		<div class="content">
-			<h2>Small, Agile, Highly Skilled Teams</h2>
-			<p>Our approach is simple....less is more. We are fanatical believers that the best products come from small, agile, highly skilled teams. Our engineers are deeply inloved in the concept and requirements phase bringing the full vision of projects to life. We also believe strongly in selecting the right tech stack for a project. From node.js, Ruby on Rails, native apps vs mobile web...we have the experience to select the right tools for the job.</p>
-			<ul class="actions">
-				<li><a href="#" class="button small">Learn More</a></li>
-			</ul>
-		</div>
-	    <div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499879902000/agile_feedback.png" alt="" /></div>
-	  </div>
-</section>
-<section id="cms_dev" class="wrapper page_content">
-    <a name="members"></a>
-    <h3>Our Team</h3>
-	<div class="split reversed">
-		<div class="content">
-			<h2>The best and the brightest</h2>
-			<p>We care deeply about the team we work with everyday. We are passinate about technology and working together to acheve something great. Our development team is located in Toronto and <u>we never outsource any development</u>.</p><p>Our team members come from the best schools in Canada including Waterloo, Univeristy of Toronto, Ottawa, Western, Ryerson and more. Our team has worked with Canada's laregst telecommuncations companies and real estate firms in North America.  </p>
-			<ul class="actions">
-				<li><a href="#" class="button small">Learn More</a></li>
-			</ul>
-		</div>
-		<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499880024000/agile_team.png" alt="" /></div>
-	</div>
-</section>
+<!--<section id="app_dev" class="wrapper page_content">-->
+<!--    <a name="skills"></a>-->
+<!--    <h3>Our Skills</h3>-->
+<!--	<div class="split reversed">-->
+<!--		<div class="content">-->
+<!--			<h2>The best full stack developers in the business</h2>-->
+<!--			<p>The term "Full Stack" gets thrown around a lot, but for us it means something very important...it means picking the right tools for the right job. Our team has extensive knowledge and expeirience in software development and selecting the right technology stack for a project is as important as how the code itself is written. We pride ourselves in staying up to speed on every advancement in our industry by learning new tools, software languages and frameworks in building great software. </p>-->
+<!--			<ul class="actions">-->
+<!--				<li><a href="#" class="button small">Learn More</a></li>-->
+<!--			</ul>-->
+<!--		</div>-->
+<!--		<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499879529000/tech_stack.png" alt="" /></div>-->
+<!--	</div>-->
+<!--</section>-->
+<!--<section id="web_dev" class="wrapper page_content">-->
+<!--    <a name="approach"></a>-->
+<!--    <h3>Our Approach</h3>-->
+<!--	<div class="split reversed">-->
+<!--		<div class="content">-->
+<!--			<h2>Small, Agile, Highly Skilled Teams</h2>-->
+<!--			<p>Our approach is simple....less is more. We are fanatical believers that the best products come from small, agile, highly skilled teams. Our engineers are deeply inloved in the concept and requirements phase bringing the full vision of projects to life. We also believe strongly in selecting the right tech stack for a project. From node.js, Ruby on Rails, native apps vs mobile web...we have the experience to select the right tools for the job.</p>-->
+<!--			<ul class="actions">-->
+<!--				<li><a href="#" class="button small">Learn More</a></li>-->
+<!--			</ul>-->
+<!--		</div>-->
+<!--	    <div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499879902000/agile_feedback.png" alt="" /></div>-->
+<!--	  </div>-->
+<!--</section>-->
+<!--<section id="cms_dev" class="wrapper page_content">-->
+<!--    <a name="members"></a>-->
+<!--    <h3>Our Team</h3>-->
+<!--	<div class="split reversed">-->
+<!--		<div class="content">-->
+<!--			<h2>The best and the brightest</h2>-->
+<!--			<p>We care deeply about the team we work with everyday. We are passinate about technology and working together to acheve something great. Our development team is located in Toronto and <u>we never outsource any development</u>.</p><p>Our team members come from the best schools in Canada including Waterloo, Univeristy of Toronto, Ottawa, Western, Ryerson and more. Our team has worked with Canada's laregst telecommuncations companies and real estate firms in North America.  </p>-->
+<!--			<ul class="actions">-->
+<!--				<li><a href="#" class="button small">Learn More</a></li>-->
+<!--			</ul>-->
+<!--		</div>-->
+<!--		<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499880024000/agile_team.png" alt="" /></div>-->
+<!--	</div>-->
+<!--</section>-->
