@@ -5,7 +5,7 @@
 		<div class="split">
 		    <section class="style1 centered reversed">
 				<span class="image fit portrait">
-				    <img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
+				    <img class="img_box_shadow" src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
 			    </span>
 			</section>
 			<section>
@@ -22,7 +22,7 @@
 		<div class="split">
 		    <section class="style1 centered reversed">
 				<span class="image fit portrait">
-				    <img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
+				    <img class="img_box_shadow" src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
 			    </span>
 			</section>
 			<section>
@@ -38,7 +38,7 @@
 		<div class="split">
 		    <section class="style1 centered reversed">
 				<span class="image fit portrait">
-				    <img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
+				    <img class="img_box_shadow" src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
 			    </span>
 			</section>
 			<section>
@@ -54,7 +54,7 @@
 		<div class="split">
 		    <section class="style1 centered reversed">
 				<span class="image fit portrait">
-				    <img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
+				    <img class="img_box_shadow" src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" />
 			    </span>
 			</section>
 			<section>
