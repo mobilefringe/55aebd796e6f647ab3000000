@@ -1,8 +1,9 @@
 <section  id="app_dev" class="wrapper page_content">
 <a name="mobile_app"></a>
 	<div class="inner">
+	<h2>Mobile Development</h2>
 		<div class="split style1 centered reversed">
-		<h2>Mobile Development</h2>
+		
 			<section>
 				<span class="image fit portrait"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501530877000/img_mobiledev.jpg" alt="" /></span>
 			</section>
