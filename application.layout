@@ -18,7 +18,7 @@
         <meta name="twitter:title" content="{{meta_title}}" />
         <meta name="twitter:description" content="{{meta_description}}" />
         <meta name="twitter:image" content="{{meta_image}}" /> 
-		<!--[if lte IE 8]><script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/html5shiv.js"></script><![endif]-->
+        
 		<link rel="shortcut icon" href="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/> 
 		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 		<link rel='stylesheet' href="/application.css"/>
