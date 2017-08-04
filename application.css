@@ -4986,11 +4986,11 @@
 }
 
 .client_image.padded {
-    padding:0 30px;
+    padding:0 25px;
 }
 
 .no_padding {
-    margin:autol;
+    margin:auto;
 }
 
 .no_margin {
