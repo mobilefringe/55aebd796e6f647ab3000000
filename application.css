@@ -4981,7 +4981,7 @@
 	color: #2d2d2d;
     margin : 0 0 30px;
 }
-.client_image.first {
+.client_image {
     border-radius: 5px;
     padding-right:25px;
 }
