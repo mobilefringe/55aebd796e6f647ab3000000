@@ -29,6 +29,8 @@
         <meta name="twitter:title" content="{{meta_title}}" />
         <meta name="twitter:description" content="{{meta_description}}" />
         <meta name="twitter:image" content="{{meta_image}}" /> 
+        
+        
 		<link rel="shortcut icon" href="//codecloud.cdn.speedyrails.net/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/>  
 		<link rel='stylesheet' href="/application.css"/>
 		<link rel='stylesheet' href="/mf_style.css"/>
