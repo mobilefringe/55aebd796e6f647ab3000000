@@ -121,9 +121,11 @@
 								    <span class="label">Twitter</span>
 							    </a>
 							</li>
-							<li><a class="icon fa-github" href="https://github.com/mobilefringe" target="_blank">
-								<span class="label">GitHub</span>
-							</a></li>
+							<li>
+							    <a class="icon fa-github" href="https://github.com/mobilefringe" target="_blank">
+								    <span class="label">GitHub</span>
+							    </a>
+							</li>
 							<li><a class="icon fa-linkedin" href="https://ca.linkedin.com/company/mobile-fringe" target="_blank">
 								<span class="label">LinkedIn</span>
 							</a></li>
