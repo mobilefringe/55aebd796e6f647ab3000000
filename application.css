@@ -4983,10 +4983,11 @@
 }
 .client_image {
     border-radius: 5px;
+    padding:25px;
 }
 
 .client_image.padded {
-    padding:25px;
+    
 }
 
 .no_padding {
