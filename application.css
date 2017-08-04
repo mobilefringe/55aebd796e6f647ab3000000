@@ -4970,5 +4970,8 @@
 }
 
 .dev_content {
-    font-size:15px;
+    font-size: 15px;
+	line-height: 1.67;
+	letter-spacing: -0.3px;
+	color: #5a5a5a;
 }
