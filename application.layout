@@ -111,7 +111,8 @@
 							<li class="icon fa-envelope-o"><a href="#">contact@mobilefringe.com</a></li>
 						</ul>
 						<ul class="icons-bordered">
-							<li><a class="icon fa-facebook" href="https://www.facebook.com/Mobile-Fringe-323681052143" target="_blank">
+							<li>
+							    <a class="icon fa-facebook" href="https://www.facebook.com/Mobile-Fringe-323681052143" target="_blank">
 								<span class="label">Facebook</span>
 							</a></li>
 							<li><a class="icon fa-twitter" href="https://twitter.com/mobilefringe" target="_blank">
