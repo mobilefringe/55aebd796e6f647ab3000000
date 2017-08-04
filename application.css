@@ -4990,7 +4990,7 @@
 }
 
 .no_padding {
-    margin:auto;
+    padding:0;
 }
 
 .no_margin {
