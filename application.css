@@ -4985,6 +4985,9 @@
     border-radius: 5px;
 }
 
+.client_image.padded {
+    padding-right:25px;
+}
 .client_image.first {
     padding-right:25px;
 }
