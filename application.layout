@@ -113,8 +113,9 @@
 						<ul class="icons-bordered">
 							<li>
 							    <a class="icon fa-facebook" href="https://www.facebook.com/Mobile-Fringe-323681052143" target="_blank">
-								<span class="label">Facebook</span>
-							</a></li>
+								    <span class="label">Facebook</span>
+							    </a>
+						    </li>
 							<li><a class="icon fa-twitter" href="https://twitter.com/mobilefringe" target="_blank">
 								<span class="label">Twitter</span>
 							</a></li>
