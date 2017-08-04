@@ -91,8 +91,7 @@
             
             	<div class="inner">
             	<a class="mf_logo" href="/home"></a>
-            	<!--<a class="mf_logo" href="/"><span style="display:none">logo</span></a>-->
-            		<!--<img src="http://codecloud.cdn.speedyrails.net/sites/57fe415b6e6f6463050d0000/image/png/1447442105000/mf_icon.png" alt="MF icon" style="width:150px" class="mf_logo">-->
+            
             		<h2>We shape cutting-edge ideas <br>into software perfection</h2>
             		<ul class="actions">
             			<li><a href="#one" class="button wide scrolly discover">Discover</a></li>
