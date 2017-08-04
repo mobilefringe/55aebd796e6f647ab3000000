@@ -4988,3 +4988,7 @@
 .client_image.padded {
     padding:0;
 }
+
+.no_padding {
+    padding:0;
+}
