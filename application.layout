@@ -24,8 +24,6 @@
 		<link rel='stylesheet' href="/application.css"/>
 		<link rel='stylesheet' href="/mf_style.css"/>
 		
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		
 		<!-- Scripts -->
 		<script src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/jquery.min.js"></script>
