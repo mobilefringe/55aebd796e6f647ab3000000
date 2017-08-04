@@ -4986,7 +4986,7 @@
 }
 
 .client_image.padded {
-    padding:0 25px;
+    padding:25px;
 }
 
 .no_padding {
@@ -4996,6 +4996,7 @@
 .no_margin {
     margin:0;
 }
+
 /* centered columns styles */
 .row-centered {
     text-align:center;
