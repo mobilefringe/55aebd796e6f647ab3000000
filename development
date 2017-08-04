@@ -32,7 +32,7 @@
 <section  id="web_dev" class="wrapper page_content">
     <a name="web_development"></a>
 	<div class="inner">
-	<h2 class="align-center">Web Development</h2>
+	
 		<div class="split">
 		    <section class="style1 centered reversed">
 				<span class="image fit portrait">
@@ -40,6 +40,7 @@
 			    </span>
 			</section>
 			<section>
+			    <h1>Web Development</h1>
 				<p>Jamie TBD </p>
 			</section>
 		</div>
