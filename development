@@ -40,7 +40,7 @@
 			    </span>
 			</section>
 			<section>
-			    <h1>Web Development</h1>
+			    <h1 class="dev_title">Web Development</h1>
 				<p>Jamie TBD </p>
 			</section>
 		</div>
@@ -52,7 +52,7 @@
 	
 		<div class="split">
 		    <section>
-			    <h1>Enterrpise & CMS</h1>
+			    <h1 class="dev_title">Enterrpise & CMS</h1>
 				<p>Jamie TBD </p>
 			</section>
 		    <section class="style1 centered reversed">
@@ -75,7 +75,7 @@
 			    </span>
 			</section>
 			<section>
-			    <h1>Artificial Intelligence & Machine Learning</h1>
+			    <h1 class="dev_title">Artificial Intelligence & Machine Learning</h1>
 				<p>Jamie TBD </p>
 			</section>
 		</div>
