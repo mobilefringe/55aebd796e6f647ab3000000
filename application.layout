@@ -54,37 +54,37 @@
 			</div>
 
 			<!-- Nav -->
-				<nav id="nav">
-					<ul>
-						<li><a href="/home">Home</a></li>
-						<li>
-						    <a href="/#one" class="scrolly icon fa-angle-down">Development</a>
-							<ul>
-								<li><a href="/development#mobile_app">Mobile App Development</a></li>
-								<li><a href="/development#web_development">Web Development</a></li>
-								<li><a href="/development#cms">Enterprise CMS & DAPPS</a></li>
-								<li><a href="/development#ai">Artificial Intelligence</a></li>
-							</ul>
-						</li>
-						<li>
-						    <a href="" class="scrolly icon fa-angle-down">Our Work</a>
-						    <ul>
-								<li><a href="/our_work">View Portfolio</a></li>
-							</ul>
-						</li>
-						<li><a href="/vc_investments" class="scrolly">VC Funding</a></li>
-						<li>
-							<a href="" class="icon fa-angle-down">More</a>
-							<ul>
-								<li><a href="/team">Our Team</a></li>
-								<li><a href="/team#approach">Our Approach</a></li>
-								<li><a href="/clients">Amazing Clients</a></li>
-								<li><a href="#contact_us">Contact Us</a></li>
-							</ul>
-						</li>
+			<nav id="nav">
+				<ul>
+					<li><a href="/home">Home</a></li>
+					<li>
+					    <a href="/#one" class="scrolly icon fa-angle-down">Development</a>
+						<ul>
+							<li><a href="/development#mobile_app">Mobile App Development</a></li>
+							<li><a href="/development#web_development">Web Development</a></li>
+							<li><a href="/development#cms">Enterprise CMS & DAPPS</a></li>
+							<li><a href="/development#ai">Artificial Intelligence</a></li>
+						</ul>
+					</li>
+					<li>
+					    <a href="" class="scrolly icon fa-angle-down">Our Work</a>
+					    <ul>
+							<li><a href="/our_work">View Portfolio</a></li>
+						</ul>
+					</li>
+					<li><a href="/vc_investments" class="scrolly">VC Funding</a></li>
+					<li>
+						<a href="" class="icon fa-angle-down">More</a>
+						<ul>
+							<li><a href="/team">Our Team</a></li>
+							<li><a href="/team#approach">Our Approach</a></li>
+							<li><a href="/clients">Amazing Clients</a></li>
+							<li><a href="#contact_us">Contact Us</a></li>
+						</ul>
+					</li>
 
-					</ul>
-				</nav>
+				</ul>
+			</nav>
 
 		</header>
 			<!-- Banner -->
