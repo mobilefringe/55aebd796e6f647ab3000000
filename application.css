@@ -4992,3 +4992,7 @@
 .no_padding {
     padding:0;
 }
+
+.no_margin {
+    margin:0;
+}
