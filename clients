@@ -16,7 +16,7 @@
 		
 		<div class="row">
 		    <div class="col-md-3 col-sm-6 col-xs-12">
-		       <img class="client_image" src="" alt=""/> 
+		       <img class="client_image padded" src="" alt=""/> 
 		    </div>
 		    
 		</div>
