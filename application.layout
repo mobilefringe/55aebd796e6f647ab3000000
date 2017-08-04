@@ -105,12 +105,14 @@
 			<div class="inner">
 				<div class="split style1">
 					<div class="contact" id="contact_us">
+					
 					    <!-- Contact Info  -->
 						<h2>Contact</h2>
 						<ul class="contact-icons">
 							<li class="icon fa-home"><a href="#">216 Chrislea Road - Unit 502 <br>Vaughan, ON L4L 8S5<br>Canada</a></li>
 							<li class="icon fa-envelope-o"><a href="#">contact@mobilefringe.com</a></li>
 						</ul>
+						
 						<!-- Social Icons -->
 						<ul class="icons-bordered">
 							<li>
@@ -135,6 +137,7 @@
 							</li>
 						</ul>
 					</div>
+					
 					<!-- Contact Form  -->
 					<form  id="email_form">
 						<h2>Email Us</h2>
