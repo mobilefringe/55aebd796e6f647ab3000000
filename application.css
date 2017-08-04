@@ -4984,3 +4984,7 @@
 .client_image {
     border-radius: 5px;
 }
+
+.client_image.first {
+    padding-right:25px;
+}
