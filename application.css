@@ -4983,5 +4983,8 @@
 }
 .client_image {
     border-radius: 5px;
-    padding-right:25px;
+    .first {
+        padding-right:25px;
+    }
+    
 }
