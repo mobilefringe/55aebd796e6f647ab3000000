@@ -41,7 +41,7 @@
 			</section>
 			<section>
 			    <h1 class="dev_title">Web Development</h1>
-				<p>Jamie TBD </p>
+				<p class="dev_content">Jamie TBD </p>
 			</section>
 		</div>
 	</div>
@@ -53,7 +53,7 @@
 		<div class="split">
 		    <section>
 			    <h1 class="dev_title">Enterrpise & CMS</h1>
-				<p>Jamie TBD </p>
+				<p class="dev_content">Jamie TBD </p>
 			</section>
 		    <section class="style1 centered reversed">
 				<span class="image fit portrait">
@@ -76,7 +76,7 @@
 			</section>
 			<section>
 			    <h1 class="dev_title">Artificial Intelligence & Machine Learning</h1>
-				<p>Jamie TBD </p>
+				<p class="dev_content">Jamie TBD </p>
 			</section>
 		</div>
 	</div>
