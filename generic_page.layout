@@ -63,7 +63,7 @@
 				<ul>
 					<li><a href="/home">Home</a></li>
 					<li>
-					    <a href="/#one" class="scrolly icon fa-angle-down">Development</a>
+					    <a href="/development" class="scrolly icon fa-angle-down">Development</a>
 						<ul>
 							<li><a href="/development#mobile_app">Mobile App Development</a></li>
 							<li><a href="/development#web_development">Web Development</a></li>
