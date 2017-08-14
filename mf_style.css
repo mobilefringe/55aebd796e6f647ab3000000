@@ -100,6 +100,10 @@
     margin:0;
 }
 
+margin_100 {
+    margin-top:100px;
+}
+
 /* centered columns styles */
 .row-centered {
     text-align:center;
