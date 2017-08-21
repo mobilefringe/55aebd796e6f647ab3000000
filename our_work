@@ -342,10 +342,10 @@ We focus on growth planning, strategic investments, advisory boards, angel inves
 
 			</div><!--/main-->
 		</div>
-		<link rel="shortcut icon" href="../favicon.ico"> 
-        <link rel="stylesheet" type="text/css" href="css/style.css"/>
-		<script src="js/modernizr.custom.70736.js"></script>
-		<noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
+<link rel="shortcut icon" href="../favicon.ico"> 
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<script src="js/modernizr.custom.70736.js"></script>
+<noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script src="js/jquery.masonry.min.js"></script>
 <script src="js/jquery.history.js"></script>
