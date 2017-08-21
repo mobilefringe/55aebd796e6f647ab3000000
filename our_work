@@ -95,13 +95,13 @@ We focus on growth planning, strategic investments, advisory boards, angel inves
 							</div>
 						</li>
 						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="images/xxxlarge/3.jpg" data-min-width="1300"></div>
-								<div data-src="images/xxlarge/3.jpg" data-min-width="1000"></div>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="1300"></div>
+								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208106000/3.jpg" data-min-width="1000"></div>
 								<div data-src="images/xlarge/3.jpg" data-min-width="700"></div>
-								<div data-src="images/large/3.jpg" data-min-width="300"></div>
-								<div data-src="images/medium/3.jpg" data-min-width="200"></div>
-								<div data-src="images/small/3.jpg" data-min-width="140"></div>
+								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208191000/3.jpg" data-min-width="300"></div>
+								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208222000/3.jpg" data-min-width="200"></div>
+								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208260000/3.jpg" data-min-width="140"></div>
 								<div data-src="images/xsmall/3.jpg"></div>
 								<noscript>
 									<img src="images/xsmall/3.jpg" alt="img03"/>
