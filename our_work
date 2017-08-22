@@ -91,7 +91,7 @@
 <link rel="stylesheet" type="text/css" href="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/text/css/1503411648000/style_gallery.css"/>
 <script src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/text/javascript/1503411082000/modernizr.custom.70736.js"></script>
 <!--<noscript><link rel="stylesheet" type="text/css" href="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/text/css/1352211676000/noJS_gallery.css"/></noscript>-->
-<!---->
+<!-- adding these here again to averwrite any changes made by gamma's stylesheet-->
 <link rel='stylesheet' href="/application.css"/>
 <link rel='stylesheet' href="/mf_style.css"/>
 <script src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/text/javascript/1503410451000/jquery.masonry.min.js"></script>
