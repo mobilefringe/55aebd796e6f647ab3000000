@@ -16,39 +16,8 @@
 
 
 <div class="container wrapper">
-		<div class="inner">
-			<!-- Codrops top bar -->
-            <!--<div class="codrops-top clearfix">-->
-            <!--    <a href="http://tympanus.net/Tutorials/HeadingSets/">-->
-            <!--        <strong>&laquo; Previous Demo: </strong>Heading Set Styling-->
-            <!--    </a>-->
-            <!--    <span class="right">-->
-            <!--    	<a href="http://www.idleformat.com/">Images by Idleformat</a>-->
-            <!--        <a href="http://tympanus.net/codrops/?p=11836">-->
-            <!--            <strong>Back to the Codrops Article</strong>-->
-            <!--        </a>-->
-            <!--    </span>-->
-           <!-- </div>/ Codrops top bar -->
-			
 			<div class="main">
-			<!--<header class="clearfix">-->
-			<!--    <h1>Our Work <span>With great work comes great responsibility </span></h1>-->
-			<!--		<div class="support-note">-->
-			<!--			<span class="note-ie">Sorry, this is only supported in modern browsers.</span>-->
-			<!--		</div>-->
-		 <!--       </header>-->
-				<!--<header class="clearfix">-->
-				
-				<!--	<h1>Gamma Gallery<span>A responsive image gallery experiment</span></h1>-->
-
-				<!--	<div class="support-note">-->
-				<!--		<span class="note-ie">Sorry, only modern browsers.</span>-->
-				<!--	</div>-->
-					
-				<!--</header>-->
-				
 				<div class="gamma-container gamma-loading" id="gamma-container">
-
 					<ul class="gamma-gallery">
 
 						<li>
