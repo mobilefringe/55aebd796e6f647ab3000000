@@ -1,4 +1,6 @@
 $(document).ready(function(){
+    
+    my_client_list = [];
     $('#email_form').submit(function(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
