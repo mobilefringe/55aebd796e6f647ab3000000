@@ -67,9 +67,9 @@
 								<!--<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208222000/3.jpg" data-min-width="200"></div>-->
 								<!--<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208260000/3.jpg" data-min-width="140"></div>-->
 								<!--<div data-src="images/xsmall/3.jpg"></div>-->
-								<!--<noscript>-->
-								<!--	<img src="images/xsmall/3.jpg" alt="img03"/>-->
-								<!--</noscript>-->
+								<noscript>
+									<img src="images/xsmall/3.jpg" alt="img03"/>
+								</noscript>
 							</div>
 						</li>
 						<li>
