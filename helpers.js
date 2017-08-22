@@ -24,7 +24,7 @@ $(document).ready(function(){
         });
     });
     
-    if(window.location.pathname.indexOf("our_work") > -1) {
+    if(window.location.pathname.indexOf("our_work/i") > -1) {
         window.location.replace("/our_work");
     }
     //  SyntaxHighlighter.all();
