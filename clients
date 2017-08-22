@@ -11,43 +11,43 @@
 		</p>
 		<!-- Client image gallery -->
 		<div class="row  no_margin row-centered">
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/272/original/Square_rogers.jpg?1452746998" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/273/original/Square_fido.jpg?1452746999" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/592/original/Square_NorthPark.jpg?1452750736" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/590/original/Square_OrlandoCorp.jpg?1452750732" alt=""/> 
 		    </div>
 		    
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/290/original/Square_ACO.jpg?1452747033" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/280/original/Square_isispos.jpg?1452747012" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/588/original/Square_NiagaraFalls.jpg?1452750727" alt=""/> 
 		    </div>
 		    
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/284/original/Square_oce.jpg?1452747020" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/287/original/Square_torontopath.jpg?1452747026" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/281/original/Square_digitalmenubox.jpg?1452747014" alt=""/> 
 		    </div>
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/282/original/Square_deloitte.jpg?1452747016" alt=""/> 
 		    </div>
 		    
-		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
+		    <div class="col-md-2 col-sm-6 col-xs-12 no_padding col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/593/original/Square_Cominar.jpg?1452750737" alt=""/> 
 		    </div>
 		    <div class="col-md-3 col-sm-6 col-xs-12 no_padding col-centered">
