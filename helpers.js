@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-    my_client_list = ["https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/272/original/Square_rogers.jpg?1452746998", "https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/273/original/Square_fido.jpg?1452746999","https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/592/original/Square_NorthPark.jpg?1452750736"];
+    my_client_list = ["https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/272/original/Square_rogers.jpg?1452746998", "https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/273/original/Square_fido.jpg?1452746999","https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/592/original/Square_NorthPark.jpg?1452750736","https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/024/590/original/Square_OrlandoCorp.jpg?1452750732"];
     $('#email_form').submit(function(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
