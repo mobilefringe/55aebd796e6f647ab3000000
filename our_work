@@ -14,78 +14,75 @@
     </div>
 <!--<div class="inner">-->
     <div class="container">
-			<div class="main inner">
-				<div class="gamma-container gamma-loading" id="gamma-container">
-					<ul class="gamma-gallery">
-
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-								
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-								
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-								
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+		<div class="main inner">
+			<div class="gamma-container gamma-loading" id="gamma-container">
+				<ul class="gamma-gallery">
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
 							
-								<!--</noscript>-->
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
 							
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-								
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-								
-							</div>
-						</li>
-						<li>
-							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
-								
-							</div>
-						</li>
-					</ul>
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+							
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+						
+							<!--</noscript>-->
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+						
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+							
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+							
+						</div>
+					</li>
+					<li>
+						<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+							<div data-src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1352208066000/3.jpg" data-min-width="130"></div>
+							
+						</div>
+					</li>
+				</ul>
 
-					<div class="gamma-overlay"></div>
+				<div class="gamma-overlay"></div>
 
-					<!--<div id="loadmore" class="loadmore">Example for loading more items...</div>-->
-
-				</div>
-
-			</div><!--/main-->
+				<!--<div id="loadmore" class="loadmore">Example for loading more items...</div>-->
+			</div>
+		</div><!--/main-->
 		
 	</div>
 </section>
