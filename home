@@ -253,3 +253,7 @@ We focus on growth planning, strategic investments, advisory boards, angel inves
 		</div>
 	</div>
 </section>
+
+<script>
+    console.log("clients", my_client_list);
+</script>
