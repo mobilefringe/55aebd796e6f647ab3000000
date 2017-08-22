@@ -15,7 +15,7 @@
 </section>
 <section id="main" class="wrapper">
     <div class="inner">
-    <div class="container inner">
+    <div class="container ">
 		<div class="main ">
 			<div class="gamma-container gamma-loading" id="gamma-container">
 				<ul class="gamma-gallery">
