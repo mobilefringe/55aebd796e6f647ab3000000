@@ -13,7 +13,7 @@
 <!--		</p>-->
     </div>
 <!--<div class="inner">-->
-<div class="container wrapper">
+    <div class="container wrapper">
 			<div class="main inner">
 				<div class="gamma-container gamma-loading" id="gamma-container">
 					<ul class="gamma-gallery">
