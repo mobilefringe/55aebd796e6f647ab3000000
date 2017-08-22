@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-    my_client_list = [];
+    my_client_list = ["https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/272/original/Square_rogers.jpg?1452746998"];
     $('#email_form').submit(function(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
