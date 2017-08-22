@@ -38,12 +38,12 @@
            <!-- </div>/ Codrops top bar -->
 			
 			<div class="main">
-			<header class="clearfix">
-			    <h1>Our Work <span>With great work comes great responsibility </span></h1>
-					<div class="support-note">
-						<span class="note-ie">Sorry, this is only supported in modern browsers.</span>
-					</div>
-		        </header>
+			<!--<header class="clearfix">-->
+			<!--    <h1>Our Work <span>With great work comes great responsibility </span></h1>-->
+			<!--		<div class="support-note">-->
+			<!--			<span class="note-ie">Sorry, this is only supported in modern browsers.</span>-->
+			<!--		</div>-->
+		 <!--       </header>-->
 				<!--<header class="clearfix">-->
 				
 				<!--	<h1>Gamma Gallery<span>A responsive image gallery experiment</span></h1>-->
