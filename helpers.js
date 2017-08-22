@@ -1,5 +1,4 @@
 $(document).ready(function(){
-    
     $('#email_form').submit(function(e){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
@@ -24,10 +23,6 @@ $(document).ready(function(){
             }
         });
     });
-    
-    if(window.location.pathname.indexOf("our_work/?id") > -1) {
-        window.location.replace("/our_work");
-    }
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
