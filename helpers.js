@@ -24,8 +24,9 @@ $(document).ready(function(){
         });
     });
     
-    var pathArray = window.location.pathname.split( '/' );
-    var slug = pathArray[pathArray.length-1];
+    if(window.location.pathname.indexOf("our_work") > -1) {
+        
+    }
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
