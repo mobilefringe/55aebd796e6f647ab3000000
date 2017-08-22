@@ -40,9 +40,9 @@
 			<div class="main">
 			<header class="clearfix">
 			    <h1>Our Work <span>With great works comes great responsibility </span></h1>
-				<!--	<div class="support-note">-->
-				<!--		<span class="note-ie">Sorry, only modern browsers.</span>-->
-				<!--	</div>-->
+					<div class="support-note">
+						<span class="note-ie">Sorry, only modern browsers.</span>
+					</div>
 		</header>
 				<!--<header class="clearfix">-->
 				
