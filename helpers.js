@@ -25,7 +25,7 @@ $(document).ready(function(){
     });
     
     if(window.location.pathname.indexOf("our_work") > -1) {
-        
+        window.location.replace(en_pathname);
     }
     //  SyntaxHighlighter.all();
 });
