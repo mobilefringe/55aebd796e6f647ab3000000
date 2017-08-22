@@ -23,7 +23,7 @@
 
 
 <div class="container wrapper">
-		
+		<div class="inner">
 			<!-- Codrops top bar -->
             <!--<div class="codrops-top clearfix">-->
             <!--    <a href="http://tympanus.net/Tutorials/HeadingSets/">-->
