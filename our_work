@@ -269,6 +269,7 @@ We focus on growth planning, strategic investments, advisory boards, angel inves
 </script>	
 
 <script>
+console.log(window.location.pathname.indexOf);
      if(window.location.pathname.indexOf("our_work/?id") > -1) {
         window.location.replace("/our_work");
     }
