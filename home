@@ -65,9 +65,9 @@
         <!--<a href="/our_work" >Our Work - TBD </a>-->
         <h2 style="margin: 0;">Our Work</h2>
     </center>
-    <div  class="prev"></div>
+    
     <div>
-        
+        <div  class="prev"></div>
     </div>
     <div class="center">
         
