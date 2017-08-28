@@ -29,9 +29,7 @@ $(window).load(function(){
     if($(window).width() > 768){
     }
     else {
-        
-    }
-    $('.center').slick({
+        $('.center').slick({
         centerMode: true,
         centerPadding: '60px',
         slidesToShow: 3,
@@ -40,4 +38,6 @@ $(window).load(function(){
         nextArrow: $('.next'),
         arrows:true
     });
+    }
+    
 });
