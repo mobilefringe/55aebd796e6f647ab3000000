@@ -129,7 +129,7 @@
 							<li><a href="#" class="button small">Learn More</a></li>
 						</ul>
 					</div>
-					<div class="image team_tab_image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501707767000/ourSkills.jpg" alt="" /></div>
+					<div class="image "><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1501707767000/ourSkills.jpg" alt="" /></div>
 				</div>
 			</li>
 			<li>
@@ -155,7 +155,7 @@
 							<li><a href="#" class="button small">Learn More</a></li>
 						</ul>
 					</div>
-					<div class="image team_tab_image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499880024000/agile_team.png" alt="" /></div>
+					<div class="image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1499880024000/agile_team.png" alt="" /></div>
 				</div>
 			</li>
 		</ul>
