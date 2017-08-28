@@ -26,7 +26,7 @@ $(document).ready(function(){
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
-    
+    $(window).on('resize', function(){
     if($( document ).width()  > 768){
         $('.center').slick({
             centerMode: true,
@@ -49,5 +49,6 @@ $(window).load(function(){
             arrows:true
         });
     }
+    });
     
 });
