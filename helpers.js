@@ -27,7 +27,7 @@ $(document).ready(function(){
 });
 $(window).load(function(){
     $(window).on('resize', function(){
-        updateSlick
+        updateSlick();
     
 });
 
