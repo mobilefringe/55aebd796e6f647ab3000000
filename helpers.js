@@ -30,6 +30,7 @@ $(window).load(function(){
     
     $(window).on('resize', function(){
         updateSlick();
+    });
     
 });
 
