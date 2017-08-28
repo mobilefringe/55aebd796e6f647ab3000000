@@ -26,7 +26,8 @@ $(document).ready(function(){
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
-    if($(window).width() > 768){
+    
+    if(($( document ).width()  > 768){
         $('.center').slick({
             centerMode: true,
             centerPadding: '60px',
