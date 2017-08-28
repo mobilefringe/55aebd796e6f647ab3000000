@@ -27,7 +27,7 @@ $(document).ready(function(){
 });
 $(window).load(function(){
     
-    if(($( document ).width()  > 768){
+    if($( document ).width()  > 768){
         $('.center').slick({
             centerMode: true,
             centerPadding: '60px',
