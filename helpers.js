@@ -26,7 +26,11 @@ $(document).ready(function(){
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
-
+    if($(window).width() > 768){
+    }
+    else {
+        
+    }
     $('.center').slick({
         centerMode: true,
         centerPadding: '60px',
