@@ -23,10 +23,11 @@ $(document).ready(function(){
             }
         });
     });
+    updateSlick();
     //  SyntaxHighlighter.all();
 });
 $(window).load(function(){
-    updateSlick();
+    
     $(window).on('resize', function(){
         updateSlick();
     
