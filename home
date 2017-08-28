@@ -115,7 +115,7 @@
 </section>
 
 <!-- Three -->
-<section id="three" class="wrapper">
+<section id="three" class="">
  <hr>
 	<div class="inner">
 		<ul class="tabs">
