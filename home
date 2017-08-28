@@ -65,9 +65,9 @@
         <!--<a href="/our_work" >Our Work - TBD </a>-->
         <h2 style="margin: 0;">Our Work</h2>
     </center>
-    
+    <div  class="prev"></div>
     <div class="center">
-        <div  class="prev"></div>
+        
         <div>
             <img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1503943744000/northpark_main.jpg" /> 
         </div>
