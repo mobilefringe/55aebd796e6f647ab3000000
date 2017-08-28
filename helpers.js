@@ -27,29 +27,7 @@ $(document).ready(function(){
 });
 $(window).load(function(){
     $(window).on('resize', function(){
-        if($( document ).width()  > 768){
-            $('.center').slick({
-                centerMode: true,
-                centerPadding: '60px',
-                slidesToShow: 3,
-                autoplay: true,
-                prevArrow: $('.prev'),
-                nextArrow: $('.next'),
-                arrows:true
-            });
-        }
-        else {
-            $('.center').slick({
-                centerMode: true,
-                centerPadding: '60px',
-                slidesToShow: 1,
-                autoplay: true,
-                prevArrow: $('.prev'),
-                nextArrow: $('.next'),
-                arrows:true
-            });
-        }
-    });
+        updateSlick
     
 });
 
