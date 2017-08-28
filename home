@@ -68,8 +68,7 @@
     
     <div>
         <div  class="prev"></div>
-    </div>
-    <div class="center">
+        <div class="center">
         
         <div>
             <img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1503943744000/northpark_main.jpg" /> 
@@ -110,6 +109,8 @@
         </div>
     </div>
     <div class="next"></div>
+    </div>
+    
    
 </section>
 
