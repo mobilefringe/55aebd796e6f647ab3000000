@@ -36,8 +36,9 @@
 </section>
 
 <!-- Team Approach Section -->
-<section  id="team_approach" class="wrapper page_content">
+
     <a name="approach"></a>
+<section  id="team_approach" class="wrapper page_content">
 	<div class="inner">
 		<div class="split">
 		    <section class="style1 centered reversed">
