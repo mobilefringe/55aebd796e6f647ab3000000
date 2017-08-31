@@ -177,10 +177,11 @@
 				<img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/jpeg/1494958804000/oxfordlogo.jpg" style="width:200px"/>
 			</article>
 		</div>
-	</div>
-	<ul class="actions">
+		<ul class="actions">
 		<li><a href="/clients" class="button small">See More</a></li>
 	</ul>
+	</div>
+	
 </section>
 
 <!-- Four -->
