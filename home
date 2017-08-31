@@ -178,8 +178,8 @@
 			</article>
 		</div>
 		<ul class="actions">
-		<li><a href="/clients" class="button small">See More</a></li>
-	</ul>
+		    <li><a href="/clients" class="button small">See More</a></li>
+	    </ul>
 	</div>
 	
 </section>
