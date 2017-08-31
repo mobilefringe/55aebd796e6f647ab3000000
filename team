@@ -14,7 +14,7 @@
 		</p>
 	</div>
 </section>
-
+<!-- Team Memebers Section -->
 <section  id="team_skills" class="wrapper page_content">
     <a name="skills"></a>
 	<div class="inner">
@@ -33,7 +33,7 @@
 		</div>
 	</div>
 </section>
-
+<!-- Team Memebers Section -->
 <section  id="team_approach" class="wrapper page_content">
     <a name="approach"></a>
 	<div class="inner">
