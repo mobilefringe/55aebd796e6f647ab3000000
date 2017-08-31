@@ -138,7 +138,7 @@
 						<h2>Small, Agile, Highly Skilled Teams</h2>
 						<p>Our approach is simple....less is more. We are fanatical believers that the best products come from small, agile, highly skilled teams. Our engineers are deeply inloved in the concept and requirements phase bringing the full vision of projects to life. We also believe strongly in selecting the right tech stack for a project. From node.js, Ruby on Rails, native apps vs mobile web...we have the experience to select the right tools for the job.</p>
 						<ul class="actions">
-							<li><a href="#" class="button small">Learn More</a></li>
+							<li><a href="/team#" class="button small">Learn More</a></li>
 						</ul>
 					</div>
 					<div class="image team_tab_image"><img src="http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1502719815000/Our_Approach.png" alt="" /></div>
