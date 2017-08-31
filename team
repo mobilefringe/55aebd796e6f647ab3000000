@@ -16,8 +16,9 @@
 </section>
 
 <!-- Team Skills Section -->
-<section  id="team_skills" class="wrapper page_content">
+
     <a name="skills"></a>
+<section  id="team_skills" class="wrapper page_content">
 	<div class="inner">
 		<div class="split">
 			<section>
