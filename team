@@ -21,7 +21,8 @@
 	<div class="inner">
 		<div class="split">
 			<section>
-			    <h1 class="dev_title">Our Skills</h1>
+			    <h1 >Our Skills</h1> 
+			    <!--class="dev_title"-->
 				<p class="dev_content">
 				    Jamie TBD 
 				</p>
