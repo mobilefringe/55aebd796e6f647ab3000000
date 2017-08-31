@@ -10,7 +10,7 @@
 		</p>
 		
 		<!-- Client image gallery -->
-		<div class="row  no_margin row-centered">
+		<div class="row  row-centered">
 		    <div class="col-md-2 col-sm-6 col-xs-12  col-centered">
 		       <img class="client_image padded" src="https://mallmaverick.cdn.speedyrails.net/system/stores/store_fronts/000/022/272/original/Square_rogers.jpg?1452746998" alt=""/> 
 		    </div>
