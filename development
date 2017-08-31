@@ -28,6 +28,7 @@
 		</div>
 	</div>
 </section>
+
 <div class="margin_100"></div>
 
 <a name="web_development"></a>
@@ -48,7 +49,9 @@
 		</div>
 	</div>
 </section>
+
 <div class="margin_100"></div>
+
 <a name="cms"></a>
 <section  id="cms_dev" class="wrapper">
 	<div class="inner">
@@ -67,7 +70,9 @@
 		</div>
 	</div>
 </section>
+
 <div class="margin_100"></div>
+
 <a name="ai"></a>
 <section  id="ai_dev" class="wrapper ">
 	<div class="inner">
@@ -86,4 +91,5 @@
 		</div>
 	</div>
 </section>
+
 <div class="margin_100"></div>
