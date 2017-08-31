@@ -15,7 +15,7 @@
 	<div class="inner">
 		<div class="split">
 	    	<section>
-			    <h1 class="dev_title">Mobile Development</h1>
+			    <h1>Mobile Development</h1>
 				<p class="dev_content">
 				    Jamie TBD 
 				</p>
@@ -39,7 +39,7 @@
 			    </span>
 			</section>
 			<section>
-			    <h1 class="dev_title">Web Development</h1>
+			    <h1>Web Development</h1>
 				<p class="dev_content">
 				    Jamie TBD 
 				</p>
@@ -53,7 +53,7 @@
 	<div class="inner">
 		<div class="split">
 		    <section>
-			    <h1 class="dev_title">Enterrpise & CMS</h1>
+			    <h1>Enterrpise & CMS</h1>
 				<p class="dev_content">
 				    Jamie TBD 
 				</p>
@@ -77,7 +77,7 @@
 			    </span>
 			</section>
 			<section>
-			    <h1 class="dev_title">Artificial Intelligence & Machine Learning</h1>
+			    <h1>Artificial Intelligence & Machine Learning</h1>
 				<p class="dev_content">
 				    Jamie TBD 
 				</p>
