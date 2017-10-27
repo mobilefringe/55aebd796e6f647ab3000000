@@ -3,11 +3,9 @@
 	<div class="inner">
 		<header>
 			<h1>Our Amazing Clients</h1>
+			<p>	We have had the privilege of working with some of North America's greatest companies big and small. We'd love to have you join this list :-)</p>
 		</header>
-		<p>
-    		We have had the privilege of working with some of North America's greatest companies big and small. We'd love to have you join this list :-)
-		</p>
-		
+	
 		<!-- Client image gallery -->
 		<div class="row  row-centered">
 		    <div class="col-md-2 col-sm-6 col-xs-12  col-centered">
