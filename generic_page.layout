@@ -73,10 +73,7 @@
 						</ul>
 					</li>
 					<li>
-					    <a href="" class="scrolly icon fa-angle-down">Our Work</a>
-					    <ul>
-							<li><a href="/our_work">View Portfolio</a></li>
-						</ul>
+					    <a href="#our_work" class="scrolly ">Our Work</a>
 					</li>
 					<li><a href="/vc_investments" class="scrolly">VC Funding</a></li>
 					<li>
