@@ -102,3 +102,24 @@
 </section>
 
 <div class="margin_100"></div>
+
+<a name="ai"></a>
+<section  id="ai_dev" class="wrapper ">
+	<div class="inner">
+		<div class="split">
+		    <section class="style1 centered reversed">
+				<span class="image fit portrait">
+				    <img class="" src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1502718247000/img_ai.png" alt="" />
+			    </span>
+			</section>
+			<section>
+			    <h1>Artificial Intelligence & Machine Learning</h1>
+				<p class="dev_content">
+				    Our team is growing rapidly in the field of AI and machine learning. AI is a transformativie shift in technology and the human condition that has only just begun. We are deeply interested in this field and have several R&D projects in the works that leverage this amazing space. Our engineers are apart of several open source projects in this field and interest continues to grow in this field.
+				</p>
+			</section>
+		</div>
+	</div>
+</section>
+
+<div class="margin_100"></div>
