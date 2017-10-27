@@ -1,5 +1,7 @@
 <!-- Team Memebers Section -->
 <a name="members"></a>
+&nbsp;
+<div class="margin_100"></div>
 <section id="team_members" class="wrapper">
 	<div class="inner">
         <header>
@@ -19,6 +21,8 @@ Our team members come from the best schools in Canada including Waterloo, Univer
 
 <!-- Team Skills Section -->
 <a name="skills"></a>
+&nbsp;
+<div class="margin_100"></div>
 <section  id="team_skills" class="wrapper">
 	<div class="inner">
 		<div class="split">
@@ -45,6 +49,8 @@ Our team members come from the best schools in Canada including Waterloo, Univer
 
 <!-- Team Approach Section -->
 <a name="approach"></a>
+&nbsp;
+<div class="margin_100"></div>
 <section  id="team_approach" class="wrapper">
 	<div class="inner">
 		<div class="split">
