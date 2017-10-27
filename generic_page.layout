@@ -74,7 +74,7 @@
 						</ul>
 					</li>
 					
-					<li><a href="https://www.mallmaverick.com" target="_bank" class="scrolly">Mall Maverick</a></li>
+					
 					<li>
 						<a href="" class="icon fa-angle-down">More</a>
 						<ul>
@@ -86,6 +86,7 @@
 							<li><a href="#contact_us">Contact Us</a></li>
 						</ul>
 					</li>
+					<li><a href="https://www.mallmaverick.com" target="_bank" class="scrolly">Mall Maverick</a></li>
 
 				</ul>
 			</nav>
