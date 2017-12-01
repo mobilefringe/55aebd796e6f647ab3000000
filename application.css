@@ -22,7 +22,7 @@
 		display: block;
 	}
 	
-	header, h1{ 
+	header > h1{ 
 	        margin:40px;
 	    
 	        
