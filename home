@@ -9,11 +9,7 @@
 					<p>Our award winning team delivers amazing results in all phases of software delivery. From concept and requirements to development and support...our team will amaze you every step of the way.</p>
 				</header>
 				<div class="features">
-					<article class="icon fa-mobile-phone">
-						<h3>Mobile App Development</h3>
-						<p>Our team began building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. We design our apps using Sketch to bring designs to life before development even begins.</p>
-						<a class="button small" style="cursor: pointer;" href="/development#mobile_app">Learn More</a>
-					</article>
+					
 					<article class="icon fa-desktop">
 						<h3>Web Development</h3>
 						<p>We are masters of web development using HTML5, CSS3 and Javascript. We design web experiences "mobile first" because we understand most web traffic today comes from a mobile device. You'll be amazed at what mobile web can do!</p>
@@ -23,6 +19,11 @@
 						<h3>Enterpise CMS & DAPPs (Ethereum)</h3>
 						<p>Our team has deep experience with backend and API development. From Ruby on Rails, Node.js, Ethereum Dapps and much more our platform have been deployed to fortune 500 organizations accross North America.</p>
 						<a class="button small" style="cursor: pointer;" href="/development#cms">Learn More</a>
+					</article>
+					<article class="icon fa-mobile-phone">
+						<h3>Mobile App Development</h3>
+						<p>Our team began building native mobile apps in 2009 and have extensive experience with iOS, Android and Hybrid app development. We design our apps using Sketch to bring designs to life before development even begins.</p>
+						<a class="button small" style="cursor: pointer;" href="/development#mobile_app">Learn More</a>
 					</article>
 					<article class="icon fa-eye">
 						<h3>Artificial Intelligence & Machine Learning</h3>
