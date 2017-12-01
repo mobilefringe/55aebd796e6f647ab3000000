@@ -21,6 +21,14 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
+	
+	header{
+	    h1{ 
+	        margin:40px;
+	    }
+	        
+	    
+	}
 
 	body {
 		line-height: 1;
