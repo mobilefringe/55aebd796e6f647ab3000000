@@ -47,6 +47,16 @@
 		<script src="//assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/text/javascript/1485058400000/main.js"></script>
 		<script src="/helpers.js"></script>
 		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src=“https://www.googletagmanager.com/gtag/js?id=UA-83023943-3“></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag(‘js’, new Date());
+
+ gtag(‘config’, ‘UA-83023943-3’);
+</script>
+		
 	</head>
 	<body id="top">
 
