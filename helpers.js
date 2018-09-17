@@ -22,7 +22,28 @@ $(document).ready(function(){
                 alert("Error sending email. Please try again later.");
             }
         });
+        
+        
     });
+    $('#contact_form').submit(function(e) {
+        values = [];
+        values = JSON.stringify($('#contact_form').serializeArray());
+        e.preventDefault();
+        $.ajax({
+            url : "/api/v1/contact_us",
+            type: "POST",
+            data : {authenticity_token: '<%=form_authenticity_token%>' ,
+            form_data:values},
+            success: function(data, textStatus, jqXHR) {
+                $('#send_contact_success').fadeIn();
+                $('#contact_form').find("input[type=text], textarea").val("");
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                $('html, body').animate({scrollTop : 0},800);
+                $('#send_contact_error').fadeIn();
+            }
+        });
+	});
     
     //  SyntaxHighlighter.all();
 });
