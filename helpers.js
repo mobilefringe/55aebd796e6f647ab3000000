@@ -27,7 +27,7 @@ $(document).ready(function(){
     });
     $('#email_form').submit(function(e) {
         values = [];
-        values = JSON.stringify($('#contact_form').serializeArray());
+        values = JSON.stringify($('#email_form').serializeArray());
         e.preventDefault();
         $.ajax({
             url : "/api/v1/contact_us",
@@ -35,8 +35,9 @@ $(document).ready(function(){
             data : {authenticity_token: '<%=form_authenticity_token%>' ,
             form_data:values},
             success: function(data, textStatus, jqXHR) {
-                $('#send_contact_success').fadeIn();
-                $('#contact_form').find("input[type=text], textarea").val("");
+                $('#email_sent').fadeIn();
+                $('#email_form').trigger('reset');
+                $('#sub_btn').removeAttr("disabled");
             },
             error: function (jqXHR, textStatus, errorThrown) {
                 $('html, body').animate({scrollTop : 0},800);
