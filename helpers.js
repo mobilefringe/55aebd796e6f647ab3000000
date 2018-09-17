@@ -1,4 +1,10 @@
 $(document).ready(function(){
+     //     var pathArray = window.location.pathname.split( '/' );
+    //     var slug = pathArray[pathArray.length-1];
+    //     if(slug === "") {
+    //         slug = "home"
+    //     }
+    $("subject").val("")
     // $('#email_form').submit(function(e){
     //     var pathArray = window.location.pathname.split( '/' );
     //     var slug = pathArray[pathArray.length-1];
