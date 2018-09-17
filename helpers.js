@@ -25,7 +25,7 @@ $(document).ready(function(){
         
         
     });
-    $('#contact_form').submit(function(e) {
+    $('#email_form').submit(function(e) {
         values = [];
         values = JSON.stringify($('#contact_form').serializeArray());
         e.preventDefault();
