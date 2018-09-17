@@ -1,5 +1,5 @@
 $(document).ready(function(){
-          var pathArray = window.location.pathname.split( '/' );
+        var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
         if(slug === "") {
             slug = "home"
