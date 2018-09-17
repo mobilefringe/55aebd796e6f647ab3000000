@@ -4,7 +4,7 @@ $(document).ready(function(){
     if(slug === "") {
         slug = "home"
     }
-    $("subject").val("Get in touch - Mobile Fringe form (sent from " +slug + " page )")
+    $("#subject").val("Get in touch - Mobile Fringe form (sent from " +slug + " page )")
     // $('#email_form').submit(function(e){
     //     var pathArray = window.location.pathname.split( '/' );
     //     var slug = pathArray[pathArray.length-1];
