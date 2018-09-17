@@ -40,8 +40,7 @@ $(document).ready(function(){
                 $('#sub_btn').removeAttr("disabled");
             },
             error: function (jqXHR, textStatus, errorThrown) {
-                $('html, body').animate({scrollTop : 0},800);
-                $('#send_contact_error').fadeIn();
+                alert("Error sending email. Please try again later.");
             }
         });
 	});
