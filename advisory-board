@@ -1,10 +1,76 @@
+<!-- Team Memebers Section -->
+<a name="members"></a>
+&nbsp;
+<div class="margin_100"></div>
+<section id="team_members" class="wrapper">
+	<div class="inner">
+        <header>
+			<h1>Our Team</h1>
+			<p>The best and the brightest....we believe in small highly skilled teams. </p>
+		</header>
+		<a href="#" class="image main">
+		    <img src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1504191678000/[MF] mf team-02.png" alt="" />
+		</a>
+		<p class="dev_content">
+		    We care deeply about the team we work with everyday. Our culture is one of our unique value propositions and we can do amazing things because of it. We are passionate about technology and working together to achieve something great. Our development team is located in Toronto and we never outsource any development. We believe the process of building great software can be as rewarding as the final product and we pour our passion into every step of the process.
+<br>
+Our team members come from the best schools in Canada including Waterloo, University of Toronto, Ottawa, Western, Ryerson and more. Our team has worked with Canada's largest telecommunications companies and real estate firms in North America. 
+		</p>
+	</div>
+</section>
 
+<!-- Team Skills Section -->
+<a name="skills"></a>
+&nbsp;
+<div class="margin_100"></div>
+<section  id="team_skills" class="wrapper">
+	<div class="inner">
+		<div class="split">
+			<section>
+			<header>
+			<h1>Our Skills</h1>
+			<p>The best full stack developers in the business</p>
+		</header>
+				<p class="dev_content">
+				    The term "Full Stack" gets thrown around a lot, but for us it means something very important...it means picking the right tools for the right job. Our team has extensive knowledge and experience in software development and selecting the right technology stack for a project is as important as how the code itself is written. We pride ourselves in staying up to speed on every advancement in our industry by learning new tools, software languages and frameworks in building great software. 
+				</p>
+				<p class="dev_content">
+				    Software development changes faster than any other industry and staying on top of emerging tools, frameworks and methodologies is essential in delivering great products. We believe strongly in using proven 3rd party tools, services and libraries so we can stay focused on delivering on the requirements for our partners. 
+				</p>
+			</section>
+		    <section class="style1 centered reversed">
+				<span class="image fit portrait">
+				    <img src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/jpeg/1501707767000/ourSkills.jpg" alt="" />
+			    </span>
+			</section>
+		</div>
+	</div>
+</section>
 
-<body>
-    dssd
-</body>
-
-<section  id="web_dev" class="wrapper ">
-<h1 style="color:black">This is our advisory board!</h1>
-
+<!-- Team Approach Section -->
+<a name="approach"></a>
+&nbsp;
+<div class="margin_100"></div>
+<section  id="team_approach" class="wrapper">
+	<div class="inner">
+		<div class="split">
+		    <section class="style1 centered reversed">
+				<span class="image fit portrait">
+				    <img class="" src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1502719815000/Our_Approach.png" alt="" />
+			    </span>
+			</section>
+			<section>
+			<header>
+			    <h1>Our Approach</h1>
+			    <p>Small, Agile, Highly Skilled Teams</p>
+			</header>
+				<p class="dev_content">
+				    Our approach is simple....less is more. We are fanatical believers that the best products come from small, agile, highly skilled teams. Our engineers are deeply involved in the concept and requirements phase bringing the full vision of projects to life. We also believe strongly in selecting the right tech stack for a project. From node.js, Ruby on Rails, native apps vs mobile web...we have the experience to select the right tools for the job. 
+				</p>
+				<p class="dev_content">
+				    We work with clients on all aspects of the software delivery process, in fact our best results come when we are involved from the start. We use tools like Asana and Slack for project management and client communication. We use Sketch (https://www.sketchapp.com/) to bring to life product design so clients can be a part of the design process and can be sure we are delivering precisely on their vision. We use tools like Browser Stack (https://www.browserstack.com/) to test every part of the software we deliver. By combining these processes, skills and tools we have built a great reputation of delivering incredible software and thrilling our clients. 
+				</p>
+			</section>
+		</div>
+	</div>
 </section>
