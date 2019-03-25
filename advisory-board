@@ -12,7 +12,7 @@
 		<p class="dev_content">
 		    We are very fortunate to have a great team of advisors helping lead our company. Our advisory board is made up of industry leaders in technology, real estate and property development. Our industries change very quickly and having an experienced group of forward thinkers is a great asset to the future of our company.
 		</p>
-		<table>
+		<table class="table">
     <tr>
         <td>
             <img src="//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/jpeg/1553534571694/gord_howells.jpg" class="" alt="">
