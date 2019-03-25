@@ -4651,6 +4651,10 @@
 		.avisory-profile-pic{
 				    width:150px;
 				}
+				
+		.avisory-td{
+		    width:200px;
+		}
 
 /* Main */
 
@@ -4899,5 +4903,9 @@
 				.avisory-profile-pic{
 				    width:80px;
 				}
+				
+				.avisory-td{
+		    width:100px;
+		}
 
 		}
