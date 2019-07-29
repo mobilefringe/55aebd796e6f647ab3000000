@@ -85,7 +85,7 @@
 					
 
 					<li>
-						<a href="/team" class="icon fa-angle-down">About Us</a>
+						<a href="/team" class="">About Us</a>
 						<ul>
 							<li><a href="/team">Our Team</a></li>
 							<li><a href="/team#skills">Our Skills</a></li>
