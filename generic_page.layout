@@ -45,6 +45,7 @@
 		<script src="//www.jacklmoore.com/js/jquery.zoom.js"></script>
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+        <script src="/libs.js"></script>
 		<script src="/main.js"></script>
 		<script src="/helpers.js"></script>
 		
