@@ -40,9 +40,9 @@
 		<script src="//www.jacklmoore.com/js/jquery.zoom.js"></script>
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-        <script src="//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000/text/javascript/1564415366937/libs.js"></script>
-		<script src="//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000/text/javascript/1564415389967/main.js"></script>
-		
+        
+		<script src="/main.js"></script>
+		<script src="/helpers.js"></script>
 		
 		
 <!-- Global site tag (gtag.js) - Google Analytics -->
