@@ -78,7 +78,7 @@
 				<ul>
 					<li><a href="/home">Home</a></li>
 					<li>
-					    <a href="/development" class="\">Development</a>
+					    <a href="/development" class="">Development</a>
 						<ul>
 							
 							<li><a href="/development#web_development">Web Development</a></li>
@@ -156,5 +156,11 @@
 				</div>
 			</div>
 		</footer>
+		<script type="text/javascript">
+            var _userway_config = {
+                account: '2OusPjU0or'
+            };
+        </script>
+        <script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
 	</body>
 </html>
